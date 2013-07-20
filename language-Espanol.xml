@@ -501,7 +501,7 @@ Esto es texto [SIZE=1]pequeño[/SIZE] y [SIZE=7]grande[/SIZE].]]></phrase>
   <phrase title="clean_up_permissions" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[Limpiar permisos]]></phrase>
   <phrase title="clear" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Clear]]></phrase>
   <phrase title="clear_filter_parameters" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Clear filter parameters]]></phrase>
-  <phrase title="clear_last_edit_information" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Clear last edit information]]></phrase>
+  <phrase title="clear_last_edit_information" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Borrar información de última edición]]></phrase>
   <phrase title="clear_server_error_log" addon_id="XenForo" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[Clear Server Error Log]]></phrase>
   <phrase title="clear_value" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Clear value]]></phrase>
   <phrase title="click_image_show_full_size_version" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Haz click en la imagen para mostrarla a tamaño completo.]]></phrase>
@@ -1146,19 +1146,19 @@ Para dejar de recibir correos, por favor edita tus preferencias de contacto:
   <phrase title="edit_route_filter" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Edit Route Filter]]></phrase>
   <phrase title="edit_route_prefix" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Route Prefix]]></phrase>
   <phrase title="edit_signature" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Editar firma]]></phrase>
-  <phrase title="edit_silently" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Edit silently]]></phrase>
-  <phrase title="edit_smilie" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Smilie]]></phrase>
-  <phrase title="edit_style" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Style]]></phrase>
+  <phrase title="edit_silently" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Editar silenciosamente]]></phrase>
+  <phrase title="edit_smilie" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Editar emoticono]]></phrase>
+  <phrase title="edit_style" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Editar estilo]]></phrase>
   <phrase title="edit_style_property_definition" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Style Property Definition]]></phrase>
   <phrase title="edit_style_property_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Style Property Group]]></phrase>
-  <phrase title="edit_template" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Template]]></phrase>
+  <phrase title="edit_template" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Editar plantilla]]></phrase>
   <phrase title="edit_template_modification" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Edit Template Modification]]></phrase>
   <phrase title="edit_thread" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Editar tema]]></phrase>
   <phrase title="edit_thread_prefix" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Edit Thread Prefix]]></phrase>
   <phrase title="edit_thread_prefix_group" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Edit Thread Prefix Group]]></phrase>
-  <phrase title="edit_title" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Edit Title]]></phrase>
-  <phrase title="edit_trophy" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Trophy]]></phrase>
-  <phrase title="edit_user" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit User]]></phrase>
+  <phrase title="edit_title" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Editar título]]></phrase>
+  <phrase title="edit_trophy" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Editar trofeo]]></phrase>
+  <phrase title="edit_user" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Editar usuario]]></phrase>
   <phrase title="edit_user_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit User Group]]></phrase>
   <phrase title="edit_user_upgrade" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit User Upgrade]]></phrase>
   <phrase title="edit_warning" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Edit Warning]]></phrase>
@@ -1432,8 +1432,8 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="if_entered_url_to_forum_not_contain_id_change_breaks_urls" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[If entered, the URL to this forum will not contain an ID. Use a-z, 0-9, _, and - characters only. Note that once specified, changing this value will cause URLs to be broken.]]></phrase>
   <phrase title="if_forgotten_your_password_use_form_to_reset" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Si te olvidaste tu contraseña, puedes utilizar este formulario para resetearla. Recibirás un email con las instrucciones.]]></phrase>
   <phrase title="if_selected_admin_manually_approve_users" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[If selected, an administrator will need to manually approve users before their registration is completed.]]></phrase>
-  <phrase title="if_selected_any_existing_last_edited_note_will_be_removed" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If selected, any existing "last edited" note will be removed.]]></phrase>
-  <phrase title="if_selected_no_last_edited_note_will_be_added_for_this_edit" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If selected, no "last edited" note will be added for this edit.]]></phrase>
+  <phrase title="if_selected_any_existing_last_edited_note_will_be_removed" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Si es seleccionado, cualquier nota de "Última edición" será removida.]]></phrase>
+  <phrase title="if_selected_no_last_edited_note_will_be_added_for_this_edit" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Si es seleccionado, no se le agregará la nota de "Última edición" a este mensaje.]]></phrase>
   <phrase title="if_selected_this_filter_will_only_be_used_to_change_incoming_urls" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If selected, this filter will only be used to change incoming URLs, not outgoing route URLs.]]></phrase>
   <phrase title="if_selected_this_user_will_be_listed_publicly_as_staff_member" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If selected, this user will be listed publicly as a staff member.]]></phrase>
   <phrase title="if_selected_users_click_link_email_before_registration_complete" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[If selected, users will need to click on a link in an email before their registration is completed.]]></phrase>
@@ -5118,7 +5118,7 @@ También puedes revisar todos los temas a los que estás suscrito.
   <phrase title="width" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ancho]]></phrase>
   <phrase title="will_automatically_associate_profile_picture_home_page_etc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Nosotros automáticamente asociaremos tu foto de perfil, página web, y otros detalles de tu cuetna. Puedes editar estos antes de que la cuenta haya sido creada.]]></phrase>
   <phrase title="will_slow_process_down_only_needed_if_posts_in_incorrect_order" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[This will slow the process down and is only needed if posts are shown in an incorrect order or to show users when they have posted in a thread.]]></phrase>
-  <phrase title="with_people" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[With]]></phrase>
+  <phrase title="with_people" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Con]]></phrase>
   <phrase title="with_selected" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[Con los seleccionados...]]></phrase>
   <phrase title="without_receiving_email_notifications" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[sin recibir notificaciones por email]]></phrase>
   <phrase title="word_or_phrase" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Palabra o frase]]></phrase>
