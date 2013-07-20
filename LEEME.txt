@@ -1,0 +1,9 @@
+/*** INSTALACIÓN ***/
+
+Admin -> Appearance -> Import a Language -> Choose File -> language-Espanol(RM).xml -> Import
+
+/*** TRADUCCIÓN ***/
+
+Traducción realizada por miembros de http://xfhispano.com
+
+¡VISITANOS!
