@@ -2998,7 +2998,7 @@ Note that account changes such as bans will not be reflected by this system. You
   <phrase title="public" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Public]]></phrase>
   <phrase title="public_route_prefixes" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Public Route Prefixes]]></phrase>
   <phrase title="public_warning_text" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Public Warning Text]]></phrase>
-  <phrase title="published" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Published]]></phrase>
+  <phrase title="published" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Publicado]]></phrase>
   <phrase title="purchase" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Comprar]]></phrase>
   <phrase title="purchased_upgrades" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Suscripciones pagadas]]></phrase>
   <phrase title="puts_user_in_selected_groups_while_upgrade_is_active" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Puts the user in the selected groups while the upgrade is active.]]></phrase>
@@ -3016,18 +3016,18 @@ Note that account changes such as bans will not be reflected by this system. You
   <phrase title="quotes_your_message" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Cita tu mensaje]]></phrase>
   <phrase title="radio_buttons" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Radio Buttons]]></phrase>
   <phrase title="radio_tags_must_specify_name" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Radio tags must specify a name.]]></phrase>
-  <phrase title="radius" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Radius]]></phrase>
-  <phrase title="rating" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Rating]]></phrase>
+  <phrase title="radius" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Radio]]></phrase>
+  <phrase title="rating" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Calificación]]></phrase>
   <phrase title="rating_1" addon_id="XenForo" version_id="1" version_string="1.0.0 Alpha 1"><![CDATA[Terrible]]></phrase>
-  <phrase title="rating_2" addon_id="XenForo" version_id="1" version_string="1.0.0 Alpha 1"><![CDATA[Poor]]></phrase>
-  <phrase title="rating_3" addon_id="XenForo" version_id="1" version_string="1.0.0 Alpha 1"><![CDATA[Average]]></phrase>
-  <phrase title="rating_4" addon_id="XenForo" version_id="1" version_string="1.0.0 Alpha 1"><![CDATA[Good]]></phrase>
-  <phrase title="rating_5" addon_id="XenForo" version_id="1" version_string="1.0.0 Alpha 1"><![CDATA[Excellent]]></phrase>
-  <phrase title="raw" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Raw]]></phrase>
+  <phrase title="rating_2" addon_id="XenForo" version_id="1" version_string="1.0.0 Alpha 1"><![CDATA[Malo]]></phrase>
+  <phrase title="rating_3" addon_id="XenForo" version_id="1" version_string="1.0.0 Alpha 1"><![CDATA[Neutro]]></phrase>
+  <phrase title="rating_4" addon_id="XenForo" version_id="1" version_string="1.0.0 Alpha 1"><![CDATA[Bueno]]></phrase>
+  <phrase title="rating_5" addon_id="XenForo" version_id="1" version_string="1.0.0 Alpha 1"><![CDATA[Excelente]]></phrase>
+  <phrase title="raw" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Crudo]]></phrase>
   <phrase title="reason" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Razón]]></phrase>
-  <phrase title="reason_for_ban" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Reason for the ban]]></phrase>
-  <phrase title="reason_for_banning" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Reason for banning]]></phrase>
-  <phrase title="reason_for_deletion" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Reason for Deletion]]></phrase>
+  <phrase title="reason_for_ban" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Razón para el ban]]></phrase>
+  <phrase title="reason_for_banning" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Razón para banear]]></phrase>
+  <phrase title="reason_for_deletion" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Razón para borrar]]></phrase>
   <phrase title="reassign_report" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Reassign Report]]></phrase>
   <phrase title="rebuild_attachment_thumbnails" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Rebuild Attachment Thumbnails]]></phrase>
   <phrase title="rebuild_caches" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Reconstruir cachés]]></phrase>
@@ -3090,7 +3090,7 @@ Note that account changes such as bans will not be reflected by this system. You
   <phrase title="remove_home_pages" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Remove home pages]]></phrase>
   <phrase title="remove_secondary_user_group" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Remove secondary user group]]></phrase>
   <phrase title="remove_signatures" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Remove signatures]]></phrase>
-  <phrase title="removed_from_public_view" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Removed from public view.]]></phrase>
+  <phrase title="removed_from_public_view" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Removido de vista pública.]]></phrase>
   <phrase title="reopen_via_admin_control_panel" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Reabrir por medio del panel de control del administrador]]></phrase>
   <phrase title="reparsing" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Reparsing]]></phrase>
   <phrase title="repeat" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Repeat]]></phrase>
@@ -3108,27 +3108,27 @@ Note that account changes such as bans will not be reflected by this system. You
   <phrase title="reply_quoting_this_message" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Responder citando este mensaje]]></phrase>
   <phrase title="reply_to_conversation" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Responder conversación]]></phrase>
   <phrase title="reply_to_thread" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Responder tema]]></phrase>
-  <phrase title="reply_to_watched_thread_x" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[{title} - New reply to watched thread]]></phrase>
+  <phrase title="reply_to_watched_thread_x" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[{title} - Nueva respuesta a un tema en seguimiento]]></phrase>
   <phrase title="reply_to_x" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Responder a {title}]]></phrase>
   <phrase title="report" addon_id="XenForo" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[Reportar]]></phrase>
-  <phrase title="report_conversation_message" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Report Conversation Message]]></phrase>
+  <phrase title="report_conversation_message" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Reportar mensaje de conversación]]></phrase>
   <phrase title="report_info" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Reportar información]]></phrase>
   <phrase title="report_post" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Reportar mensaje]]></phrase>
-  <phrase title="report_post_title" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[Report Post]]></phrase>
+  <phrase title="report_post_title" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[Reportar mensaje]]></phrase>
   <phrase title="report_profile_post" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Reportar mensaje de perfil]]></phrase>
-  <phrase title="report_profile_post_title" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[Report Profile Post]]></phrase>
+  <phrase title="report_profile_post_title" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[Reportar mensaje de perfil]]></phrase>
   <phrase title="report_reason" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Razón]]></phrase>
   <phrase title="report_status" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Estado]]></phrase>
-  <phrase title="report_that_you_made_recently_has_been_resolved" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Your recent report has been resolved: {title}]]></phrase>
-  <phrase title="report_that_you_made_recently_has_been_resolved_comment_x" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Your recent report has been resolved: {title} - {comment}]]></phrase>
+  <phrase title="report_that_you_made_recently_has_been_resolved" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Tu reporte reciente ha sido resuelto: {title}]]></phrase>
+  <phrase title="report_that_you_made_recently_has_been_resolved_comment_x" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Tu reporte reciente ha sido resuelto: {title} - {comment}]]></phrase>
   <phrase title="reported" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Reportado]]></phrase>
-  <phrase title="reported_content" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Reported Content]]></phrase>
+  <phrase title="reported_content" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Contenido reportado]]></phrase>
   <phrase title="reported_items" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Mensajes reportados]]></phrase>
-  <phrase title="reported_items_short" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Reports]]></phrase>
-  <phrase title="reported_thread_message" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[[url='{link}']{title}[/url] by [url='{userLink}']{username}[/url] has been reported by [url='{reporterLink}']{reporter}[/url]. Reason given:
+  <phrase title="reported_items_short" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Reportes]]></phrase>
+  <phrase title="reported_thread_message" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[[url='{link}']{title}[/url] por [url='{userLink}']{username}[/url] ha sido reportado por [url='{reporterLink}']{reporter}[/url]. Razón dada:
 [quote]{reportReason}[/quote]
 
-Content being reported:
+Contenido siendo reportado:
 [quote]{message}[/quote]
 {extraDetails}]]></phrase>
   <phrase title="reported_thread_title" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Reported Content: {title}]]></phrase>
@@ -4315,7 +4315,7 @@ Fixed example: width: 960px; margin: auto;]]></phrase>
   <phrase title="sub_forums" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Subforos]]></phrase>
   <phrase title="sub_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sub Group]]></phrase>
   <phrase title="subject" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Tema]]></phrase>
-  <phrase title="submit_rating" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Submit Rating]]></phrase>
+  <phrase title="submit_rating" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Enviar calificación]]></phrase>
   <phrase title="submitted_message_is_too_long_to_be_processed" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[El mensaje ingresado es demasiado largo para ser procesado. Por favor hazlo más corto.]]></phrase>
   <phrase title="subscribe" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Subscribe]]></phrase>
   <phrase title="super_administrator" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Super Administrator]]></phrase>
