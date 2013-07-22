@@ -746,7 +746,7 @@ Para parar de recibir correo electrónico, por favor configura tus preferencias 
 {prefs_link}
 
 {board_link}]]></phrase>
-  <phrase title="conversation_management" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Conversation Management]]></phrase>
+  <phrase title="conversation_management" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Manejo de conversación]]></phrase>
   <phrase title="conversation_marked_as_read" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Conversación marcada como leída.]]></phrase>
   <phrase title="conversation_marked_as_unread" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Conversación marcada como no leída.]]></phrase>
   <phrase title="conversation_message" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[Mensaje de conversación]]></phrase>
@@ -1961,13 +1961,13 @@ Example regular expression with 'id' named sub-pattern:<br />
   <phrase title="month_8_short" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Ago]]></phrase>
   <phrase title="month_9" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Septiembre]]></phrase>
   <phrase title="month_9_short" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Sep]]></phrase>
-  <phrase title="monthly_statistics" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Monthly Statistics]]></phrase>
+  <phrase title="monthly_statistics" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Estadísticas mensuales]]></phrase>
   <phrase title="months" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Meses]]></phrase>
   <phrase title="more" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[Más]]></phrase>
   <phrase title="more_options" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Más opciones]]></phrase>
   <phrase title="more_records_matching_filter_more_specific" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[There are more records matching your filter. Please be more specific.]]></phrase>
-  <phrase title="more_users" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[More Users]]></phrase>
-  <phrase title="most_likes" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[Más me gusta]]></phrase>
+  <phrase title="more_users" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Más usuarios]]></phrase>
+  <phrase title="most_likes" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[Más Me gusta]]></phrase>
   <phrase title="most_messages" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[Más mensajes]]></phrase>
   <phrase title="most_points" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[Más puntos]]></phrase>
   <phrase title="most_recent" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Más reciente]]></phrase>
@@ -1978,15 +1978,15 @@ Example regular expression with 'id' named sub-pattern:<br />
   <phrase title="move_spammers_threads" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Move spammer's threads]]></phrase>
   <phrase title="move_thread" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Mover tema]]></phrase>
   <phrase title="move_threads" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Mover temas]]></phrase>
-  <phrase title="move_to_forum" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Move to forum]]></phrase>
-  <phrase title="move_up" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Move up]]></phrase>
+  <phrase title="move_to_forum" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Mover a foro]]></phrase>
+  <phrase title="move_up" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Mover arriba]]></phrase>
   <phrase title="multi_line_string" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Multi-Line String]]></phrase>
   <phrase title="multi_line_text_box" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Multi-line text box]]></phrase>
   <phrase title="multiple_choice_drop_down_selection" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Multiple-choice drop down selection]]></phrase>
   <phrase title="multiple_votes_allowed" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Se permite multiples votos.]]></phrase>
   <phrase title="must_be_in_same_permission_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Must be in the same permission group.]]></phrase>
   <phrase title="must_be_registered" addon_id="XenForo" version_id="0" version_string=""><![CDATA[You must be a logged-in, registered member of this site to perform this action.]]></phrase>
-  <phrase title="must_be_unique" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Must be unique]]></phrase>
+  <phrase title="must_be_unique" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Debe de ser único]]></phrase>
   <phrase title="must_have_imagick_pecl_extension" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[You must have the <a href="{link}" target="_blank">imagick PECL extension</a> installed.]]></phrase>
   <phrase title="must_wait_x_seconds_before_performing_this_action" addon_id="XenForo" version_id="0" version_string=""><![CDATA[You must wait at least {count} seconds before performing this action.]]></phrase>
   <phrase title="my_thread_title_sentence_case" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[My thread title]]></phrase>
@@ -2088,7 +2088,7 @@ Example regular expression with 'id' named sub-pattern:<br />
   <phrase title="no_thread_prefixes_have_been_added_yet" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[No thread prefixes have been added yet.]]></phrase>
   <phrase title="no_trophies_have_been_created_yet" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[No trophies have been created yet.]]></phrase>
   <phrase title="no_trophies_have_been_defined_yet" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[No trophies have been defined yet.]]></phrase>
-  <phrase title="no_unread_posts_view_recent" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[No tienes mensajes sin leer. Puedes <a href="{link}" rel="nofollow">ver todos los mensajes recientes</a> si deseas.]]></phrase>
+  <phrase title="no_unread_posts_view_recent" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[No tienes mensajes sin leer. Puedes <a href="{link}" rel="nofollow">ver todos los mensajes recientes</a> si lo deseas.]]></phrase>
   <phrase title="no_user_upgrades_have_been_created_yet" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[No user upgrades have been created yet.]]></phrase>
   <phrase title="no_users_awaiting_approval" addon_id="XenForo" version_id="0" version_string=""><![CDATA[No users are awaiting approval.]]></phrase>
   <phrase title="no_users_have_custom_permissions" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[No users have custom permissions.]]></phrase>
@@ -3469,7 +3469,7 @@ If you are not sure this is the behavior you want, select 'Revoke' instead.
   <phrase title="someone_replies_and_attaches_a_file_to_a_thread_you_are_watching" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Someone replies and attaches a file to a thread you are watching]]></phrase>
   <phrase title="someone_replies_to_thread_you_are_watching" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Alguien responde a un tema que estas suscrito]]></phrase>
   <phrase title="someone_starts_following_you" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Alguien comienza a seguirte]]></phrase>
-  <phrase title="someone_tags_you_in_a_message" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Someone tags you in a message]]></phrase>
+  <phrase title="someone_tags_you_in_a_message" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Alguien te etiqueta en un mensaje]]></phrase>
   <phrase title="something_went_wrong_please_try_again" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[Something went wrong. Please try again or contact the administrator.]]></phrase>
   <phrase title="sorry" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Lo siento.]]></phrase>
   <phrase title="sorry_dave" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Lo siento Dave, me temo que no puedo hacer eso.]]></phrase>
@@ -4331,7 +4331,7 @@ Fixed example: width: 960px; margin: auto;]]></phrase>
   <phrase title="table_prefix" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Table Prefix]]></phrase>
   <phrase title="table_prefix_or_database_name_is_not_correct" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The table prefix or database name is not correct.]]></phrase>
   <phrase title="tag_contained_children_and_value_attribute" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Tag contained children and a value attribute.]]></phrase>
-  <phrase title="tags_you_in_message" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Tags you in a message]]></phrase>
+  <phrase title="tags_you_in_message" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Etiqueta en un mensaje]]></phrase>
   <phrase title="target_user" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Target user]]></phrase>
   <phrase title="templaet_modification_replace_description" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[You may use $0 to insert the found text. For regular expressions, you may use $1 and so on to insert sub-matches. You may use XenForo template syntax.]]></phrase>
   <phrase title="template" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Template]]></phrase>
