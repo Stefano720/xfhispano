@@ -1850,14 +1850,14 @@ Example regular expression with 'id' named sub-pattern:<br />
   <phrase title="member_user_group_id" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Member User Group ID]]></phrase>
   <phrase title="members" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Miembros]]></phrase>
   <phrase title="members_count" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Miembros]]></phrase>
-  <phrase title="members_following_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Members Following {name}]]></phrase>
+  <phrase title="members_following_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Miembros siguiendo {name}]]></phrase>
   <phrase title="members_online" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Usuarios]]></phrase>
   <phrase title="members_online_now" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Usuarios en línea]]></phrase>
   <phrase title="members_only" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Solo miembros]]></phrase>
   <phrase title="members_who_liked_first_message" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Miembros a quien les ha gustado el primer mensaje]]></phrase>
   <phrase title="members_who_liked_message_x" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Miembros a los que les gustó el mensaje #{position}]]></phrase>
   <phrase title="members_who_liked_this_profile_post" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Miembros a quienes les gustó este mensaje de perfil]]></phrase>
-  <phrase title="members_who_voted_for_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Members who voted for '{response}']]></phrase>
+  <phrase title="members_who_voted_for_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Miembros que votaron por '{response}']]></phrase>
   <phrase title="members_x_is_following" addon_id="XenForo" version_id="1010051" version_string="1.1.0 Release Candidate 1"><![CDATA[Miembros a los que {name} está siguiendo]]></phrase>
   <phrase title="memory" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Memory]]></phrase>
   <phrase title="menu" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Menu]]></phrase>
@@ -1874,21 +1874,21 @@ Example regular expression with 'id' named sub-pattern:<br />
   <phrase title="message" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Mensaje]]></phrase>
   <phrase title="message_count" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Número de mensajes]]></phrase>
   <phrase title="message_count_between" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Message count between]]></phrase>
-  <phrase title="message_edit_time_limit_expired" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[The time limit to edit this message ({minutes} minutes) has expired.]]></phrase>
-  <phrase title="message_submitted_displayed_pending_approval" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Your message has been submitted and will be displayed pending approval by a moderator.]]></phrase>
+  <phrase title="message_edit_time_limit_expired" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[El tiempo límite para editar este mensaje ({minutes} minutos) ha expirado.]]></phrase>
+  <phrase title="message_submitted_displayed_pending_approval" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Tu mensaje ha sido enviado y será mostrado si es aprobado por un moderador.]]></phrase>
   <phrase title="message_template" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Message Template]]></phrase>
   <phrase title="messages" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Mensajes]]></phrase>
-  <phrase title="messages_have_been_posted_since_you_loaded_this_page" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Messages have been posted since you loaded this page.]]></phrase>
+  <phrase title="messages_have_been_posted_since_you_loaded_this_page" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Mensajes han sido publicados desde que cargaste esta página.]]></phrase>
   <phrase title="messages_in_threads" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Mensajes en temas]]></phrase>
   <phrase title="messages_on_profile_pages" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Mensajes en página de perfil]]></phrase>
   <phrase title="messaging_preferences" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Preferencias de mensajes]]></phrase>
-  <phrase title="method" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Method]]></phrase>
-  <phrase title="midnight" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Midnight]]></phrase>
-  <phrase title="minimum" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Minimum]]></phrase>
-  <phrase title="minimum_age" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Minimum Age]]></phrase>
+  <phrase title="method" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Método]]></phrase>
+  <phrase title="midnight" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Media noche]]></phrase>
+  <phrase title="minimum" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Mínimo]]></phrase>
+  <phrase title="minimum_age" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edad mínima]]></phrase>
   <phrase title="minimum_number_of_replies" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[Mínimo número de respuestas]]></phrase>
-  <phrase title="minimum_points" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Minimum Points]]></phrase>
-  <phrase title="miscellaneous" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Miscellaneous]]></phrase>
+  <phrase title="minimum_points" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Puntos mínimos]]></phrase>
+  <phrase title="miscellaneous" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Miscelaneo]]></phrase>
   <phrase title="missing_attribute_x_for_tag_y" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Missing attribute '{attribute}' for tag '{tag}'.]]></phrase>
   <phrase title="missing_container_tag_var_attribute" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Missing container tag var attribute.]]></phrase>
   <phrase title="missing_label_for_option_tag" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Missing 'label' attribute or tag for tag 'option'.]]></phrase>
