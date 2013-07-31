@@ -150,68 +150,68 @@
   <phrase title="option_resourcesPerPage" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Recursos por página]]></phrase>
   <phrase title="option_resourcesPerPage_explain" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[El número de recursos que será listado por página, incluyendo en el las páginas de recurso y categoría principales.]]></phrase>
   <phrase title="option_topResourcesCount" addon_id="XenResource" version_id="1000170" version_string="1.0.1"><![CDATA[Total de mejores recursos]]></phrase>
-  <phrase title="option_topResourcesCount_explain" addon_id="XenResource" version_id="1000170" version_string="1.0.1"><![CDATA[The maximum number of resources to display in the top resources list in resource navigation. Use 0 to disable this block.]]></phrase>
+  <phrase title="option_topResourcesCount_explain" addon_id="XenResource" version_id="1000170" version_string="1.0.1"><![CDATA[El máximo numero de recursos a mostrar en los recursos más populares en la navegación de recurso. Utiliza 0 para deshabilitar este bloque.]]></phrase>
   <phrase title="overview" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[General]]></phrase>
   <phrase title="paid" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Pago]]></phrase>
-  <phrase title="parent_category" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Parent Category]]></phrase>
-  <phrase title="past_versions" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Past Versions]]></phrase>
-  <phrase title="permission_group_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Resource Permissions]]></phrase>
-  <phrase title="permission_interface_resourceModeratorPermissions" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Resource Moderator Permissions]]></phrase>
-  <phrase title="permission_interface_resourcePermissions" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Resource Permissions]]></phrase>
-  <phrase title="permission_resource_add" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Create resources]]></phrase>
-  <phrase title="permission_resource_approveUnapprove" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Approve / unapprove resources]]></phrase>
-  <phrase title="permission_resource_deleteAny" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Delete resources by anyone]]></phrase>
-  <phrase title="permission_resource_deleteReviewAny" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Delete resource reviews by anyone]]></phrase>
-  <phrase title="permission_resource_deleteSelf" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Delete resources by self]]></phrase>
-  <phrase title="permission_resource_download" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Download resources]]></phrase>
-  <phrase title="permission_resource_editAny" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Edit resources by anyone]]></phrase>
-  <phrase title="permission_resource_hardDeleteAny" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Hard-delete resources by anyone]]></phrase>
-  <phrase title="permission_resource_like" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Like resources/updates]]></phrase>
-  <phrase title="permission_resource_rate" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Rate resources]]></phrase>
-  <phrase title="permission_resource_reassign" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Reassign resources]]></phrase>
-  <phrase title="permission_resource_reviewReply" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Can reply to reviews for own resources]]></phrase>
-  <phrase title="permission_resource_undelete" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Undelete resources]]></phrase>
-  <phrase title="permission_resource_updateSelf" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Update/edit resources by self]]></phrase>
-  <phrase title="permission_resource_uploadUpdateAttach" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Upload images with updates/resources]]></phrase>
-  <phrase title="permission_resource_view" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[View resources]]></phrase>
-  <phrase title="permission_resource_viewDeleted" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[View deleted resources]]></phrase>
-  <phrase title="permission_resource_viewModerated" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[View moderated resources]]></phrase>
-  <phrase title="permission_resource_viewUpdateAttach" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[View resource images]]></phrase>
-  <phrase title="please_complete_all_commercial_resource_related_fields" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Please complete all commercial resource related fields.]]></phrase>
-  <phrase title="please_enter_external_download_url" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Please enter an external download URL.]]></phrase>
+  <phrase title="parent_category" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Categoría padre]]></phrase>
+  <phrase title="past_versions" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Versiones pasadas]]></phrase>
+  <phrase title="permission_group_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Permisos de recurso]]></phrase>
+  <phrase title="permission_interface_resourceModeratorPermissions" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Permisos de moderador de recurso]]></phrase>
+  <phrase title="permission_interface_resourcePermissions" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Permisos de recurso]]></phrase>
+  <phrase title="permission_resource_add" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Crear recursos]]></phrase>
+  <phrase title="permission_resource_approveUnapprove" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Aprobar / desaprobar recursos]]></phrase>
+  <phrase title="permission_resource_deleteAny" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Borrar recursos por cualquiera]]></phrase>
+  <phrase title="permission_resource_deleteReviewAny" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Borrar reseñas de recursos por cualquiera]]></phrase>
+  <phrase title="permission_resource_deleteSelf" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Borrar recursos propios]]></phrase>
+  <phrase title="permission_resource_download" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Descargar recursos]]></phrase>
+  <phrase title="permission_resource_editAny" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Modificar recursos por cualquiera]]></phrase>
+  <phrase title="permission_resource_hardDeleteAny" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Borrar recursos por cualquiera permanentemente]]></phrase>
+  <phrase title="permission_resource_like" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Me gustan los recursos/actualizaciones]]></phrase>
+  <phrase title="permission_resource_rate" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Calificar recursos]]></phrase>
+  <phrase title="permission_resource_reassign" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Reasignar recursos]]></phrase>
+  <phrase title="permission_resource_reviewReply" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Puede responder a reseñas para recursos propios]]></phrase>
+  <phrase title="permission_resource_undelete" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Restaurar recursos]]></phrase>
+  <phrase title="permission_resource_updateSelf" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Actualizar/modificar recursos propios]]></phrase>
+  <phrase title="permission_resource_uploadUpdateAttach" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Subir imagenes con actualizaciones/recursos]]></phrase>
+  <phrase title="permission_resource_view" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Ver recursos]]></phrase>
+  <phrase title="permission_resource_viewDeleted" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Ver recursos borrados]]></phrase>
+  <phrase title="permission_resource_viewModerated" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Ver recursos moderados]]></phrase>
+  <phrase title="permission_resource_viewUpdateAttach" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Ver imagenes de recurso]]></phrase>
+  <phrase title="please_complete_all_commercial_resource_related_fields" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Por favor completa todos los campos relacionados a un recurso comercial.]]></phrase>
+  <phrase title="please_enter_external_download_url" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Por favor ingresa una URL de descarga externa.]]></phrase>
   <phrase title="please_enter_valid_tag_line" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Por favor ingresa una línea de tag válida.]]></phrase>
-  <phrase title="please_enter_valid_version" addon_id="XenResource" version_id="1000170" version_string="1.0.1"><![CDATA[Please enter a valid version.]]></phrase>
-  <phrase title="please_provide_review_with_your_rating" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Please provide a review with your rating.]]></phrase>
-  <phrase title="please_select_valid_parent_category" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Please select a valid parent category.]]></phrase>
+  <phrase title="please_enter_valid_version" addon_id="XenResource" version_id="1000170" version_string="1.0.1"><![CDATA[Por favor ingresa una versión válida.]]></phrase>
+  <phrase title="please_provide_review_with_your_rating" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Por favor provee una reseña con tu calificación.]]></phrase>
+  <phrase title="please_select_valid_parent_category" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Por favor selecciona una categoría padre válida.]]></phrase>
   <phrase title="post_resource_update" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Publicar actualización de recurso]]></phrase>
   <phrase title="price" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Precio]]></phrase>
-  <phrase title="provide_description_for_this_release_etc" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Provide a description for this release, highlighting new features, changes, etc.]]></phrase>
+  <phrase title="provide_description_for_this_release_etc" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Provee una descripción para esta publicación, menciona las nuevas características, cambios, etc.]]></phrase>
   <phrase title="provide_n_depth_description_resource" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Provee una descripción más detallada de tu recurso, incluyendo sus características principales y cualquier otra información importante. También incluye las instrucciones de instalación en esta área, si estas son requeridas.]]></phrase>
   <phrase title="provide_very_brief_one_line_description_of_your_resource" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Provee una muy corta, descripción de una línea de tu recurso.]]></phrase>
   <phrase title="purchase_url" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[URL de compra]]></phrase>
-  <phrase title="rate_this_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Rate this Resource]]></phrase>
-  <phrase title="read_all_x_reviews" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Read all {count} reviews]]></phrase>
-  <phrase title="read_all_x_updates" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Read all {count} updates]]></phrase>
-  <phrase title="read_more" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Read More]]></phrase>
+  <phrase title="rate_this_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Calificar este recurso]]></phrase>
+  <phrase title="read_all_x_reviews" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Leer las {count} reseñans]]></phrase>
+  <phrase title="read_all_x_updates" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Leer las {count} actualizaciones]]></phrase>
+  <phrase title="read_more" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Leer más]]></phrase>
   <phrase title="reassign_resource" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Reasignar recurso]]></phrase>
   <phrase title="reassign_resources" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Reasignar recursos]]></phrase>
-  <phrase title="rebuild_resource_categories" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Rebuild Resource Categories]]></phrase>
-  <phrase title="rebuild_resources" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Rebuild Resources]]></phrase>
-  <phrase title="recent_reviews" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Recent Reviews]]></phrase>
-  <phrase title="recent_updates" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Recent Updates]]></phrase>
+  <phrase title="rebuild_resource_categories" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Reconstruir categorías de recurso]]></phrase>
+  <phrase title="rebuild_resources" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Reconstruir recursos]]></phrase>
+  <phrase title="recent_reviews" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Reseñas recientes]]></phrase>
+  <phrase title="recent_updates" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Actualizaciones recientes]]></phrase>
   <phrase title="release_date" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Fecha de publicación]]></phrase>
   <phrase title="released" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Publicado]]></phrase>
-  <phrase title="replies_to_your_review" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Replies to your review]]></phrase>
-  <phrase title="reply_to_review" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Reply to Review]]></phrase>
-  <phrase title="report_resource_update" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Report Resource Update]]></phrase>
-  <phrase title="report_review" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Report Review]]></phrase>
-  <phrase title="requested_resource_not_found" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[The requested resource could not be found.]]></phrase>
-  <phrase title="requested_review_not_found" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[The requested review could not be found.]]></phrase>
-  <phrase title="requested_update_not_found" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[The requested update could not be found.]]></phrase>
-  <phrase title="requested_user_has_no_resources" addon_id="XenResource" version_id="1" version_string="1.0.0 Alpha 1"><![CDATA[The requested user has not published any resources.]]></phrase>
-  <phrase title="requested_version_not_found" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[The requested version could not be found.]]></phrase>
-  <phrase title="resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Resource]]></phrase>
-  <phrase title="resource_categories" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Resource Categories]]></phrase>
+  <phrase title="replies_to_your_review" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Respuestas a tu reseña]]></phrase>
+  <phrase title="reply_to_review" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Responder a reseña]]></phrase>
+  <phrase title="report_resource_update" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Reportar actualización de recurso]]></phrase>
+  <phrase title="report_review" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Reportar reseña]]></phrase>
+  <phrase title="requested_resource_not_found" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[El recurso solicitado no pudo ser encontrado.]]></phrase>
+  <phrase title="requested_review_not_found" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[La reseña solicitada no pudo ser encontrada.]]></phrase>
+  <phrase title="requested_update_not_found" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[La actualización solicitada no pudo ser encontrada]]></phrase>
+  <phrase title="requested_user_has_no_resources" addon_id="XenResource" version_id="1" version_string="1.0.0 Alpha 1"><![CDATA[El usuario solicitado no ha publicado ningún recurso.]]></phrase>
+  <phrase title="requested_version_not_found" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[La versión solicitada no pudo ser encontrada.]]></phrase>
+  <phrase title="resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Recurso]]></phrase>
+  <phrase title="resource_categories" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Categorías de recurso]]></phrase>
   <phrase title="resource_does_not_have_updates_you_may_view" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[This resource does not have any updates that you may view.]]></phrase>
   <phrase title="resource_file" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Resource File]]></phrase>
   <phrase title="resource_likes" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Resource Likes]]></phrase>
