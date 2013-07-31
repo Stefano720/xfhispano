@@ -357,10 +357,10 @@ También puedes revisar todos tus recursos en segiuimento.
 {board_link}]]></phrase>
   <phrase title="watched_resources" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Recursos en seguimiento]]></phrase>
   <phrase title="whenever_resource_category_created_thread_posted" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Si es seleccionado, cuando un recurso en esta categoría es creado, un tema será publicado en este foro.]]></phrase>
-  <phrase title="x_liked_your_resource_y" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name} le gustó tu recurso {title}.]]></phrase>
-  <phrase title="x_liked_your_update_for_resource_y" addon_id="XenResource" version_id="1" version_string="1.0.0 Alpha 1"><![CDATA[{name} le gustó tu actualización del recurso {title}.]]></phrase>
+  <phrase title="x_liked_your_resource_y" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[A {name} le gustó tu recurso {title}.]]></phrase>
+  <phrase title="x_liked_your_update_for_resource_y" addon_id="XenResource" version_id="1" version_string="1.0.0 Alpha 1"><![CDATA[A {name} le gustó tu actualización del recurso {title}.]]></phrase>
   <phrase title="x_liked_ys_resource_z" addon_id="XenResource" version_id="1000170" version_string="1.0.1"><![CDATA[A {name} le gustó el recurso {title} de <a {posterParams}>{poster}</a>.]]></phrase>
-  <phrase title="x_liked_ys_update_for_resource_z" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name} le gustó <a {posterParams}>la actualización de {poster}</a> para el recurso {title}.]]></phrase>
+  <phrase title="x_liked_ys_update_for_resource_z" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[A {name} le gustó <a {posterParams}>la actualización de {poster}</a> para el recurso {title}.]]></phrase>
   <phrase title="x_posted_resource_y" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name} publico el recurso {title}.]]></phrase>
   <phrase title="x_replied_review_resource_y" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name} respondió a tu reseña del recurso {title}.]]></phrase>
   <phrase title="x_reviewed_resource_y" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name} realizó una reseña del recurso {title}.]]></phrase>
