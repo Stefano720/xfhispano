@@ -252,8 +252,8 @@
   <phrase title="save_update" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Guardar actualización]]></phrase>
   <phrase title="save_version" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Guardar versión]]></phrase>
   <phrase title="search_child_categories_as_well" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Buscar en categorías hijo también]]></phrase>
-  <phrase title="search_in_categories" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Search in Categories]]></phrase>
-  <phrase title="search_only_resource_descriptions" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Search only resource descriptions]]></phrase>
+  <phrase title="search_in_categories" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Buscar en categorías]]></phrase>
+  <phrase title="search_only_resource_descriptions" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Buscar solo descripciones de recurso]]></phrase>
   <phrase title="search_resources" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Buscar recursos]]></phrase>
   <phrase title="search_resources_only" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Buscar solo recursos]]></phrase>
   <phrase title="search_this_category_only" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Buscar solo en esta categoría]]></phrase>
@@ -268,129 +268,129 @@
   <phrase title="there_currently_no_resources_to_display" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Actualmente no hay recursos para mostrar.]]></phrase>
   <phrase title="there_no_resources_in_this_category_yet" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[No hay recursos en esta categoría todavía.]]></phrase>
   <phrase title="this_category_does_not_allow_external_commercial_resources" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Esta categoría no permite recursos externos comerciales.]]></phrase>
-  <phrase title="this_category_does_not_allow_fileless_resources" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[This category does not allow fileless resources.]]></phrase>
-  <phrase title="this_is_version_name_for_your_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[This is the new version name for your resource, such as 1.0. You may not alter this once you have saved it. If you do not enter this, a new version will not be posted.]]></phrase>
-  <phrase title="this_operation_can_not_be_reversed" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[This operation can not be reversed.]]></phrase>
-  <phrase title="this_resource_has_been_deleted" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[This resource has been deleted.]]></phrase>
-  <phrase title="this_resource_is_currently_awaiting_approval" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[This resource is currently awaiting approval.]]></phrase>
-  <phrase title="this_update_has_been_deleted" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[This update has been deleted.]]></phrase>
-  <phrase title="this_update_is_currently_awaiting_approval" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[This update is currently awaiting approval.]]></phrase>
+  <phrase title="this_category_does_not_allow_fileless_resources" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Está categoría no permite recursos sin archivo.]]></phrase>
+  <phrase title="this_is_version_name_for_your_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Este es el nuevo nombre de versión de tu recurso, tal como 1.0. No puedes alterarlo una vez que haya sido guardado. Sino ingresas esto, no se publicará la nueva versión.]]></phrase>
+  <phrase title="this_operation_can_not_be_reversed" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Esta operación no puede ser revertida.]]></phrase>
+  <phrase title="this_resource_has_been_deleted" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Este recurso ha sido borrado.]]></phrase>
+  <phrase title="this_resource_is_currently_awaiting_approval" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Este recurso actualmente está esperando ser aprobado.]]></phrase>
+  <phrase title="this_update_has_been_deleted" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Está actualización ha sido borrada.]]></phrase>
+  <phrase title="this_update_is_currently_awaiting_approval" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Está actualización actualmente está esperando ser aprobada]]></phrase>
   <phrase title="top_resources" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Más reconocidos]]></phrase>
   <phrase title="total_downloads" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Descargas totales]]></phrase>
   <phrase title="unapprove_resource" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Desaprobar recurso]]></phrase>
   <phrase title="unapprove_resources" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Desaprovar recursos]]></phrase>
-  <phrase title="undelete_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Undelete Resource]]></phrase>
-  <phrase title="undelete_resources" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Undelete resources]]></phrase>
-  <phrase title="unlike_resource_update" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Unlike Resource Update]]></phrase>
-  <phrase title="unwatch_this_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Unwatch this Resource]]></phrase>
-  <phrase title="update_thread_title_on_resource_deletion" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Update thread title on resource deletion]]></phrase>
+  <phrase title="undelete_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Restaurar recurso]]></phrase>
+  <phrase title="undelete_resources" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Restaurar recursos]]></phrase>
+  <phrase title="unlike_resource_update" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Quitar Me gusta de actualización de recurso]]></phrase>
+  <phrase title="unwatch_this_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Dejar de seguir este recurso]]></phrase>
+  <phrase title="update_thread_title_on_resource_deletion" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Actualizar título de tema cuando el recurso sea borrado]]></phrase>
   <phrase title="update_title" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Titulo de actualización]]></phrase>
   <phrase title="updated" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Actualizado]]></phrase>
-  <phrase title="updated_resource_file" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Updated Resource File]]></phrase>
-  <phrase title="updates" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Updates]]></phrase>
-  <phrase title="updates_resource_you_watching_with_update" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Someone updates a resource you are watching with a new update entry]]></phrase>
+  <phrase title="updated_resource_file" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Archivo de recurso actualizado]]></phrase>
+  <phrase title="updates" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Actualizaciones]]></phrase>
+  <phrase title="updates_resource_you_watching_with_update" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Alguien actualizó un recurso que estas siguiendo con una nueva entrada actualización]]></phrase>
   <phrase title="upload_images" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Subir imagenes]]></phrase>
   <phrase title="upload_your_resource" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Sube tu recurso]]></phrase>
   <phrase title="uploaded_file" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Archivo adjunto]]></phrase>
-  <phrase title="use_title_to_refer_to_current_thread_title" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Use {title} to refer to the current thread title.]]></phrase>
+  <phrase title="use_title_to_refer_to_current_thread_title" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Utiliza {title} para referirte al título de tema actual.]]></phrase>
   <phrase title="version" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Versión]]></phrase>
   <phrase title="version_history" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Historial de versiones]]></phrase>
   <phrase title="version_rating" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Calificación de versión]]></phrase>
   <phrase title="version_x" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Versión {version}]]></phrase>
-  <phrase title="via_external_site" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Via external site]]></phrase>
-  <phrase title="view_older_updates" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[View older updates]]></phrase>
-  <phrase title="view_this_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[View this Resource]]></phrase>
-  <phrase title="viewing_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Viewing resource]]></phrase>
-  <phrase title="viewing_resource_author" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Viewing resource author]]></phrase>
-  <phrase title="watch_resource_button" addon_id="XenResource" version_id="1000170" version_string="1.0.1"><![CDATA[Watch Resource]]></phrase>
-  <phrase title="watch_this_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Watch this Resource]]></phrase>
-  <phrase title="watch_this_resource_sentence" addon_id="XenResource" version_id="1000170" version_string="1.0.1"><![CDATA[Watch this resource]]></phrase>
-  <phrase title="watched_resource_update_email_header_html" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{receiver}, {creator} updated a resource you are watching at {board}.]]></phrase>
-  <phrase title="watched_resource_update_email_html_footer_1" addon_id="XenResource" version_id="1000170" version_string="1.0.1"><![CDATA[This message was sent to you because you opted to watch the resource {resource} at {board} with email notification of updates.]]></phrase>
-  <phrase title="watched_resource_update_email_html_footer_2" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[To stop receiving email, please <a href="{watch_link}" style="{link_style}">change your watching options for this resource</a>. You may also <a href="{manage_link}" style="{link_style}">review all of your watched resources</a>.]]></phrase>
+  <phrase title="via_external_site" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Ver sitio externo]]></phrase>
+  <phrase title="view_older_updates" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Ver actualizaciones viejas]]></phrase>
+  <phrase title="view_this_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Ver este recurso]]></phrase>
+  <phrase title="viewing_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Viendo recurso]]></phrase>
+  <phrase title="viewing_resource_author" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Viendo autor de recurso]]></phrase>
+  <phrase title="watch_resource_button" addon_id="XenResource" version_id="1000170" version_string="1.0.1"><![CDATA[Ver recurso]]></phrase>
+  <phrase title="watch_this_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Ver este recurso]]></phrase>
+  <phrase title="watch_this_resource_sentence" addon_id="XenResource" version_id="1000170" version_string="1.0.1"><![CDATA[Ver este recurso]]></phrase>
+  <phrase title="watched_resource_update_email_header_html" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{receiver}, {creator} actualizó un recurso que estás siguiendo en {board}.]]></phrase>
+  <phrase title="watched_resource_update_email_html_footer_1" addon_id="XenResource" version_id="1000170" version_string="1.0.1"><![CDATA[Este mensajes se te envió porque elejiste seguir el recurso {resource} en {board} con notificaciones de actualizaciones por email.]]></phrase>
+  <phrase title="watched_resource_update_email_html_footer_2" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Para dejar de recibir emails, por favor <a href="{watch_link}" style="{link_style}">cambia tus opciones de seguimiento para este recurso</a>. También puedes <a href="{manage_link}" style="{link_style}">ver todos los recursos en seguimiento</a> si lo deseas.]]></phrase>
   <phrase title="watched_resource_update_email_text" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{receiver_username},
 
-{username} updated a resource you are watching at {board_title} with a new update entry:
+{username} actualizó un recurso que estas siguiendo en {board_title} con una nueva entrada de actualización:
 
 	{resource} - {update}
 
 ----------------------------------------------------------------------
 
-To view this resource, click here:
+Para ver este recurso, haz clic aquí:
 {view_link}
 
 ----------------------------------------------------------------------
 
-This message was sent to you because you opted to watch the resource "{resource}" at {board_title} with email notification of new updates.
+Este mensaje se te envió porque elejiste seguir el recurso "{resource}" en {board_title} con notificaciones de email de nuevas actualizaciones.
 
-To stop receiving this email, please change your watch options for this resource.
+Para dejar de recibir este email, por favor cambia tus opciones de seguimiento para este recurso.
 {watch_link}
 
-You may also review all your watched resources.
+También puedes revisar todos tus recursos en seguimiento.
 {manage_link}
 
 {board_link}]]></phrase>
   <phrase title="watched_resource_update_messagetext_email_text" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{receiver_username},
 
-{username} updated a resource you are watching at {board_title} with a new update entry:
+{username} actualizó un recurso que estás mirando en {board_title} con una nueva entrada de actualización:
 
 	{resource} - {update}
 
-This is the update they posted:
+Está es la actualización que publicaron:
 ----------------------------------------------------------------------
 {message}
 ----------------------------------------------------------------------
 
-To view this resource, click here:
+Para ver este recurso, haz clic aquí:
 {view_link}
 
 ----------------------------------------------------------------------
 
-This message was sent to you because you opted to watch the resource "{resource}" at {board_title} with email notification of new updates.
+Este mensaje se te envió porque elejiste seguir el recurso "{resource}" en {board_title} con notificaciones de email de nuevas actualizaciones.
 
-To stop receiving this email, please change your watch options for this resource.
+Para dejar de recibir este email, por favor cambia las opciones de seguimiento de este recurso.
 {watch_link}
 
-You may also review all your watched resources.
+También puedes revisar todos tus recursos en segiuimento.
 {manage_link}
 
 {board_link}]]></phrase>
   <phrase title="watched_resources" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Recursos en seguimiento]]></phrase>
-  <phrase title="whenever_resource_category_created_thread_posted" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[If selected, whenever a resource in this category is created, a thread will be posted in this forum.]]></phrase>
-  <phrase title="x_liked_your_resource_y" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name} liked your resource {title}.]]></phrase>
-  <phrase title="x_liked_your_update_for_resource_y" addon_id="XenResource" version_id="1" version_string="1.0.0 Alpha 1"><![CDATA[{name} liked your update for the resource {title}.]]></phrase>
-  <phrase title="x_liked_ys_resource_z" addon_id="XenResource" version_id="1000170" version_string="1.0.1"><![CDATA[{name} liked <a {posterParams}>{poster}'s resource</a> {title}.]]></phrase>
-  <phrase title="x_liked_ys_update_for_resource_z" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name} liked <a {posterParams}>{poster}'s update</a> for the resource {title}.]]></phrase>
-  <phrase title="x_posted_resource_y" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name} posted the resource {title}.]]></phrase>
-  <phrase title="x_replied_review_resource_y" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name} replied to your review of the resource {title}.]]></phrase>
-  <phrase title="x_reviewed_resource_y" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name} reviewed the resource {title}.]]></phrase>
-  <phrase title="x_updated_resource_y" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name} updated the resource {title}.]]></phrase>
-  <phrase title="you_are_watching_this_resource_use_button_to_stop" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You are watching this resource. Use the button below if you would like to stop watching this resource.]]></phrase>
-  <phrase title="you_do_not_have_permission_view_full_resource_content" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You do not have permission to view the full content of this resource.]]></phrase>
-  <phrase title="you_have_already_rated_this_version_re_rating_remove" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You have already rated this version. Re-rating it will remove your existing rating or review.]]></phrase>
-  <phrase title="you_may_not_delete_the_current_version_of_a_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You may not delete the current version of a resource.]]></phrase>
-  <phrase title="you_may_not_delete_the_resource_description" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You may not delete the resource description.]]></phrase>
-  <phrase title="you_may_not_delete_this_resource_update" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You may not delete this resource update.]]></phrase>
-  <phrase title="you_may_not_delete_this_version_of_this_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You may not delete this version of this resource.]]></phrase>
-  <phrase title="you_may_not_edit_this_resource_update" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You may not edit this resource update.]]></phrase>
-  <phrase title="you_may_not_edit_this_version_of_this_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You may not edit this version of this resource.]]></phrase>
-  <phrase title="you_may_only_enter_external_url_or_upload_file" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You may only enter an external URL or upload a file.]]></phrase>
-  <phrase title="you_may_only_rate_after_downloading" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You may only rate after downloading.]]></phrase>
-  <phrase title="you_may_only_reassign_resource_to_user_with_permission_to_view" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You may only reassign a resource to a user with permission to view resources.]]></phrase>
-  <phrase title="you_must_provide_either_update_or_new_version" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You must provide either an update or a new version.]]></phrase>
-  <phrase title="you_must_select_category" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You must select a category.]]></phrase>
-  <phrase title="you_must_upload_file_to_create_version_or_resource" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Debes de subir un archivo o crear una versión o recurso.]]></phrase>
-  <phrase title="you_not_currently_watching_any_resources" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You are not currently watching any resources.]]></phrase>
-  <phrase title="you_only_rate_resource_version_downloaded" addon_id="XenResource" version_id="1000170" version_string="1.0.1"><![CDATA[You can only rate a resource version that you have downloaded.]]></phrase>
-  <phrase title="you_sure_want_delete_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Are you sure you want to delete this resource?]]></phrase>
-  <phrase title="you_sure_you_want_to_delete_this_review_from_x" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Are you sure you want to delete this review from {title}?]]></phrase>
-  <phrase title="you_sure_you_want_to_delete_this_review_response_from_x" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Are you sure you want to delete this review response from {title}?]]></phrase>
-  <phrase title="you_sure_you_want_to_delete_this_update_from_x" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Are you sure you want to delete this update from {title}?]]></phrase>
-  <phrase title="you_sure_you_want_to_delete_version_x_of_y" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Are you sure you want to delete version {version} of {title}?]]></phrase>
-  <phrase title="you_sure_you_want_to_delete_x_resources" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Are you sure you want to delete {count} resource(s)?]]></phrase>
-  <phrase title="you_sure_you_want_to_like_this_resource_update" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Are you sure you want to like this resource update?]]></phrase>
-  <phrase title="you_sure_you_want_to_move_x_resources" addon_id="XenResource" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Are you sure you want to move {count} resource(s)?]]></phrase>
-  <phrase title="you_sure_you_want_to_reassign_x_resources" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Are you sure you want to reassign {count} resource(s)?]]></phrase>
-  <phrase title="you_sure_you_want_to_unlike_this_resource_update" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[¿Estás seguro que de que quieres quitar tu Me gusta de esta actualización de recurso?]]></phrase>
+  <phrase title="whenever_resource_category_created_thread_posted" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Si es seleccionado, cuando un recurso en esta categoría es creado, un tema será publicado en este foro.]]></phrase>
+  <phrase title="x_liked_your_resource_y" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name} le gustó tu recurso {title}.]]></phrase>
+  <phrase title="x_liked_your_update_for_resource_y" addon_id="XenResource" version_id="1" version_string="1.0.0 Alpha 1"><![CDATA[{name} le gustó tu actualización del recurso {title}.]]></phrase>
+  <phrase title="x_liked_ys_resource_z" addon_id="XenResource" version_id="1000170" version_string="1.0.1"><![CDATA[A {name} le gustó el recurso {title} de <a {posterParams}>{poster}</a>.]]></phrase>
+  <phrase title="x_liked_ys_update_for_resource_z" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name} le gustó <a {posterParams}>la actualización de {poster}</a> para el recurso {title}.]]></phrase>
+  <phrase title="x_posted_resource_y" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name} publico el recurso {title}.]]></phrase>
+  <phrase title="x_replied_review_resource_y" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name} respondió a tu reseña del recurso {title}.]]></phrase>
+  <phrase title="x_reviewed_resource_y" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name} realizó una reseña del recurso {title}.]]></phrase>
+  <phrase title="x_updated_resource_y" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name} actualizó el recurso {title}.]]></phrase>
+  <phrase title="you_are_watching_this_resource_use_button_to_stop" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Estás siguiendo este recurso. Utiliza el boton debajo si quieres dejar de seguir este recurso.]]></phrase>
+  <phrase title="you_do_not_have_permission_view_full_resource_content" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[No tienes permiso para ver el contenido completo de este recurso.]]></phrase>
+  <phrase title="you_have_already_rated_this_version_re_rating_remove" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Ya has calificado está versión. Recalificando removerá tu calificación o reseña actual.]]></phrase>
+  <phrase title="you_may_not_delete_the_current_version_of_a_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[No puedes borrar la versión actual del recurso.]]></phrase>
+  <phrase title="you_may_not_delete_the_resource_description" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[No puedes borrar la descripción del recurso.]]></phrase>
+  <phrase title="you_may_not_delete_this_resource_update" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[No puedes borrar la actualización del recurso.]]></phrase>
+  <phrase title="you_may_not_delete_this_version_of_this_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[No puedes borrar está versión del recurso.]]></phrase>
+  <phrase title="you_may_not_edit_this_resource_update" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[No puedes modificar está actualización de recurso.]]></phrase>
+  <phrase title="you_may_not_edit_this_version_of_this_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[No puedes modificar está version del recurso.]]></phrase>
+  <phrase title="you_may_only_enter_external_url_or_upload_file" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Únicamente puedes ingresar una URL externa o adjuntar un archivo.]]></phrase>
+  <phrase title="you_may_only_rate_after_downloading" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Únicamente puedes calificar después de descargar.]]></phrase>
+  <phrase title="you_may_only_reassign_resource_to_user_with_permission_to_view" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Únicamente puedes reasignar un recurso a un usuario con permiso para ver los reursos.]]></phrase>
+  <phrase title="you_must_provide_either_update_or_new_version" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Debes de proveer o una actualización o una nueva versión.]]></phrase>
+  <phrase title="you_must_select_category" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Debes de seleccionar una categoría.]]></phrase>
+  <phrase title="you_must_upload_file_to_create_version_or_resource" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Debes de adjuntar un archivo o crear una versión o recurso.]]></phrase>
+  <phrase title="you_not_currently_watching_any_resources" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Actualmente no estás siguiendo ningún recurso.]]></phrase>
+  <phrase title="you_only_rate_resource_version_downloaded" addon_id="XenResource" version_id="1000170" version_string="1.0.1"><![CDATA[Únicamente puedes calificar una versión de recurso que hayas descargado.]]></phrase>
+  <phrase title="you_sure_want_delete_resource" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[¿Estás seguro de que quieres borrar este recurso?]]></phrase>
+  <phrase title="you_sure_you_want_to_delete_this_review_from_x" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[¿Estás seguro de que quieres borrar esta reseña de {title}?]]></phrase>
+  <phrase title="you_sure_you_want_to_delete_this_review_response_from_x" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[¿Estás seguro de que quieres borrar esta respuesta de reseña de {title}?]]></phrase>
+  <phrase title="you_sure_you_want_to_delete_this_update_from_x" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[¿Estás seguro de que quieres borrar está actualización de {title}?]]></phrase>
+  <phrase title="you_sure_you_want_to_delete_version_x_of_y" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[¿Estás seguro de que quieres borrar esta versión {version} de {title}?]]></phrase>
+  <phrase title="you_sure_you_want_to_delete_x_resources" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[¿Estás seguro de que quieres borrar {count} recurso(s)?]]></phrase>
+  <phrase title="you_sure_you_want_to_like_this_resource_update" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[¿Estás seguro de que quieres darle Me gusta a está actualización de recurso?]]></phrase>
+  <phrase title="you_sure_you_want_to_move_x_resources" addon_id="XenResource" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[¿Estás seguro de que quieres mover {count} recurso(s)?]]></phrase>
+  <phrase title="you_sure_you_want_to_reassign_x_resources" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[¿Estás seguro de que quieres reasignar {count} recurso(s)?]]></phrase>
+  <phrase title="you_sure_you_want_to_unlike_this_resource_update" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[¿Estás seguro de que quieres quitar tu Me gusta de esta actualización de recurso?]]></phrase>
   <phrase title="your_resources" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Tus recursos]]></phrase>
 </language>
