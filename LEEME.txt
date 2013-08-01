@@ -1,6 +1,6 @@
 /*** INSTALACIÓN ***/
 
-Admin -> Appearance -> Import a Language -> Choose File -> language-Espanol(RM).xml -> Import
+Admin -> Appearance -> Import a Language -> Choose File -> language-Espanol.xml -> Import
 
 /*** TRADUCCIÓN ***/
 

@@ -3536,7 +3536,7 @@ If you are not sure this is the behavior you want, select 'Revoke' instead.
   <phrase title="standard_search" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Standard Search]]></phrase>
   <phrase title="star_conversation" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Fijar conversación]]></phrase>
   <phrase title="star_conversations" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Fijar conversaciones]]></phrase>
-  <phrase title="starred" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Fijado]]></phrase>
+  <phrase title="starred" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Fijada]]></phrase>
   <phrase title="starred_conversations" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Conversaciones fijadas]]></phrase>
   <phrase title="start_a_conversation_now" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Iniciar una conversación ahora]]></phrase>
   <phrase title="start_conversation" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Iniciar una conversación]]></phrase>
