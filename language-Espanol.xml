@@ -81,7 +81,7 @@
   <phrase title="admin_navigation_adminNavigation" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[Navegación de admin]]></phrase>
   <phrase title="admin_navigation_adminPermissions" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[Permisos de admin]]></phrase>
   <phrase title="admin_navigation_adminStyleProperties" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[Propiedades de estilo de admin]]></phrase>
-  <phrase title="admin_navigation_adminStyling" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[Estilo de Admin]]></phrase>
+  <phrase title="admin_navigation_adminStyling" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[Estilo de admin]]></phrase>
   <phrase title="admin_navigation_adminTemplateMods" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Mods de plantillas de admin]]></phrase>
   <phrase title="admin_navigation_adminTemplates" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[Plantillas de admin]]></phrase>
   <phrase title="admin_navigation_admins" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[Administradores]]></phrase>
@@ -982,7 +982,7 @@ Para dejar de recibir correos, por favor edita tus preferencias de contacto:
   <phrase title="delete_cron_entry" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Cron Entry]]></phrase>
   <phrase title="delete_current_avatar" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Eliminar avatar actual]]></phrase>
   <phrase title="delete_current_avatar_question" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Delete current avatar?]]></phrase>
-  <phrase title="delete_draft" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Delete draft]]></phrase>
+  <phrase title="delete_draft" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Eliminar borrador]]></phrase>
   <phrase title="delete_event_listener" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Event Listener]]></phrase>
   <phrase title="delete_existing_cached_data" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Delete existing cached data]]></phrase>
   <phrase title="delete_feed" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Delete Feed]]></phrase>
@@ -1108,17 +1108,17 @@ Para dejar de recibir correos, por favor edita tus preferencias de contacto:
   <phrase title="double" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Double]]></phrase>
   <phrase title="downgrade" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Downgrade]]></phrase>
   <phrase title="downgrade_user" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Downgrade User]]></phrase>
-  <phrase title="draft_deleted" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Draft deleted]]></phrase>
-  <phrase title="draft_saved" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Draft saved]]></phrase>
-  <phrase title="drafts" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Drafts]]></phrase>
-  <phrase title="drag_image_to_crop_then_click_okay_or_upload_new_avatar" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Drag this image to crop it, then click <span class="saveHint">Okay</span> to confirm, or upload a new avatar below.]]></phrase>
+  <phrase title="draft_deleted" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Borrador eliminado]]></phrase>
+  <phrase title="draft_saved" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Borrador guardado]]></phrase>
+  <phrase title="drafts" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Borradores]]></phrase>
+  <phrase title="drag_image_to_crop_then_click_okay_or_upload_new_avatar" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Arrastra esta imagen para Drag this image to crop it, then click <span class="saveHint">Okay</span> to confirm, or upload a new avatar below.]]></phrase>
   <phrase title="drop_down_selection" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Drop down selection]]></phrase>
   <phrase title="drop_files_here_to_upload" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Drop files here to upload]]></phrase>
   <phrase title="edit" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Editar]]></phrase>
-  <phrase title="edit_add_on" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Add-on]]></phrase>
+  <phrase title="edit_add_on" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Editar complemento]]></phrase>
   <phrase title="edit_admin_navigation_link" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Admin Navigation Link]]></phrase>
-  <phrase title="edit_admin_permission" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Admin Permission]]></phrase>
-  <phrase title="edit_admin_template" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Admin Template]]></phrase>
+  <phrase title="edit_admin_permission" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Editar permisos de admin]]></phrase>
+  <phrase title="edit_admin_template" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Editar plantillas de admin]]></phrase>
   <phrase title="edit_administrator" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Administrator]]></phrase>
   <phrase title="edit_administrator_permissions" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit administrator permissions]]></phrase>
   <phrase title="edit_avatar" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Avatar]]></phrase>
@@ -3297,8 +3297,8 @@ Contenido siendo reportado:
   <phrase title="save_changes" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Guardar cambios]]></phrase>
   <phrase title="save_code_event" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Code Event]]></phrase>
   <phrase title="save_cron_entry" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Cron Entry]]></phrase>
-  <phrase title="save_draft" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Save draft]]></phrase>
-  <phrase title="save_drafts_every_x_seconds" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Save drafts every X seconds]]></phrase>
+  <phrase title="save_draft" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Guardar borrador]]></phrase>
+  <phrase title="save_drafts_every_x_seconds" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Guardar borradores cada X segundos]]></phrase>
   <phrase title="save_event_listener" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Event Listener]]></phrase>
   <phrase title="save_feed" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Save Feed]]></phrase>
   <phrase title="save_field" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Save Field]]></phrase>
@@ -3534,10 +3534,10 @@ If you are not sure this is the behavior you want, select 'Revoke' instead.
   <phrase title="staff_online_now" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Equipo en línea]]></phrase>
   <phrase title="staff_only" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Staff Only]]></phrase>
   <phrase title="standard_search" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Standard Search]]></phrase>
-  <phrase title="star_conversation" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Conversación estrella]]></phrase>
-  <phrase title="star_conversations" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Conversaciones estrella]]></phrase>
-  <phrase title="starred" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Starred]]></phrase>
-  <phrase title="starred_conversations" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Starred Conversations]]></phrase>
+  <phrase title="star_conversation" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Fijar conversación]]></phrase>
+  <phrase title="star_conversations" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Fijar conversaciones]]></phrase>
+  <phrase title="starred" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Fijado]]></phrase>
+  <phrase title="starred_conversations" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Conversaciones fijadas]]></phrase>
   <phrase title="start_a_conversation_now" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Iniciar una conversación ahora]]></phrase>
   <phrase title="start_conversation" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Iniciar una conversación]]></phrase>
   <phrase title="start_conversation_with_x" addon_id="XenForo" version_id="1010051" version_string="1.1.0 Release Candidate 1"><![CDATA[Empezar una conversación con {name}]]></phrase>
@@ -3577,7 +3577,7 @@ If you are not sure this is the behavior you want, select 'Revoke' instead.
   <phrase title="stopforumspam_reject_registration_threshold_explain" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Specify the number of warning flags (1-3) that are required for a registration to be automatically rejected. This number should be equal to or greater than the value for the moderation threshold above.]]></phrase>
   <phrase title="stopforumspam_submit_information" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Submit spammer information to StopForumSpam using API key]]></phrase>
   <phrase title="stopforumspam_submit_information_explain" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If you have an API key from StopForumSpam, you may have spammer activity on your site automatically reported back to StopForumSpam in order to improve the database for other users. This option will cause users who are banned via the spam cleaner to be reported.]]></phrase>
-  <phrase title="store_drafts_for_x_hours" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Store drafts for X hours]]></phrase>
+  <phrase title="store_drafts_for_x_hours" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Almacenar borradores por X horas]]></phrase>
   <phrase title="strike_through" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Strike-through]]></phrase>
   <phrase title="string" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[String]]></phrase>
   <phrase title="string_could_not_be_converted_to_input" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[The specified string could not be converted to an input object, either because it was not found or because it contained errors.]]></phrase>
