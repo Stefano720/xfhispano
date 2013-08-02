@@ -897,7 +897,7 @@ Para dejar de recibir correos, por favor edita tus preferencias de contacto:
   <phrase title="cron_entry_feeder" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Feeder]]></phrase>
   <phrase title="cron_entry_id" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Cron Entry ID]]></phrase>
   <phrase title="cron_entry_ids_must_be_unique" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Cron entry IDs must be unique. The specified ID is already in use.]]></phrase>
-  <phrase title="cron_entry_run_successfully" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Cron entry run successfully.]]></phrase>
+  <phrase title="cron_entry_run_successfully" addon_id="XenForo" version_id="1020070" version_string="1.2.0"><![CDATA[Entrada cron fué ejecutada satisfactoriamente.]]></phrase>
   <phrase title="cron_entry_trophy" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Update User Trophies]]></phrase>
   <phrase title="cron_entry_userGroupPromotions" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[User Group Promotions]]></phrase>
   <phrase title="cron_entry_views" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Update View Counters]]></phrase>
@@ -1228,7 +1228,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="encryption" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Encryption]]></phrase>
   <phrase title="end_date" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[End Date]]></phrase>
   <phrase title="engaged_in_conversation" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Participando en una conversación]]></phrase>
-  <phrase title="ensure_that_permissions_correct_for_imported_groups_nodes" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ensure that permissions are correct for any imported user groups and nodes.]]></phrase>
+  <phrase title="ensure_that_permissions_correct_for_imported_groups_nodes" addon_id="XenForo" version_id="1020070" version_string="1.2.0"><![CDATA[Asegurate de que los permisos sean correctos para cualquier grupo de usuario/nodos, administradores, y moderadores importados.]]></phrase>
   <phrase title="enter_email_address_of_gravatar_you_want_to_use" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Introduzca la dirección de email del Gravatar que desea usar.]]></phrase>
   <phrase title="enter_id_where_you_want_user_entered_media_id_to_be_used" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Enter {$id} where you want the user-entered media ID to be used.]]></phrase>
   <phrase title="enter_media_url" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Enter media URL]]></phrase>
@@ -1280,7 +1280,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="fetch_and_store_remote_url_avatars" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Fetch and store remote URL avatars]]></phrase>
   <phrase title="fetch_and_store_remote_url_avatars_explain" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[IP.Board allows users to link to off-site images as avatars. Would you like any off-site images to be fetched and stored on your server? If you do not select this option, remote URL avatars will be ignored.]]></phrase>
   <phrase title="fetch_new_entries_every" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Fetch New Entries Every]]></phrase>
-  <phrase title="field_display_html_description" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[If not empty, this allows you to format the value of this field using HTML, allowing you to do things like link or mark up the output. You may use these placeholders: <b>{$value}</b> - the field's display value; <b>{$valueUrl}</b> - the field's display value for use in a URL, <b>{$choice}</b> - the underlying value of the chosen option, and <b>{$fieldId}</b> - the ID of this field ({fieldId}).]]></phrase>
+  <phrase title="field_display_html_description" addon_id="XenForo" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[If not empty, this allows you to format the value of this field using HTML, allowing you to do things like link or mark up the output. You may use these placeholders: <b>{$value}</b> - the field's display value; <b>{$valueUrl}</b> - the field's display value for use in a URL, <b>{$choice}</b> - the underlying value of the chosen option, and <b>{$fieldId}</b> - the ID of this field (<span id="FieldId">{fieldId}</span>).]]></phrase>
   <phrase title="field_id" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Field ID]]></phrase>
   <phrase title="field_ids_must_be_unique" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Field IDs must be unique. The specified ID is already in use.]]></phrase>
   <phrase title="field_is_required" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Field is required]]></phrase>
@@ -1399,19 +1399,31 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="handle_report" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Handle Report]]></phrase>
   <phrase title="height" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Height]]></phrase>
   <phrase title="help" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ayuda]]></phrase>
-  <phrase title="help_cookies_description" addon_id="XenForo" version_id="1010570" version_string="1.1.5"><![CDATA[<p>El acceso a este sitio puede implicar la utilización de cookies. Las cookies son pequeñas cantidades de información que se almacenan en el navegador utilizado por cada usuario para que el servidor recuerde cierta información que posteriormente pueda utilizar. Esta información permite identificarle a usted como un usuario concreto y permite guardar sus preferencias personales, así como información técnica como puedan ser visitas o páginas concretas que visite.</p>
+  <phrase title="help_cookies_description" addon_id="XenForo" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[<p>This page discusses how cookies are used by this site. If you continue to use this site, you are consenting to our use of cookies.</p>
 
-<p>Aquellos usuarios que no deseen recibir cookies o quieran ser informados antes de que se almacenen en su ordenador, pueden configurar su navegador a tal efecto.</p>
+<h3 class="textHeading">What Cookies Are</h3>
+<p>Cookies are small files stored on your computer by your web browser (such as Internet Explorer or Firefox) at the request of a site you're viewing. This allows the site you're viewing to remember things about you, such as your preferences and history or to keep you logged in.</p>
 
-<p>La mayor parte de los navegadores de hoy en día permiten la gestión de las cookies de 3 formas diferentes:</p>
+<p>Cookies may be stored on your computer for a short time (such as only while your browser is open) or for an extended period of time, even years. Cookies not set by this site will not be accessible to us.</p>
 
+<h3 class="textHeading">Our Cookie Usage</h3>
+<p>This site uses cookies for numerous things, including:</p>
 <ul>
-<li>Las cookies no se aceptan nunca.</li>
-<li>El navegador pregunta al usuario si se debe aceptar cada cookie.</li>
-<li>Las cookies se aceptan siempre.</li>
+	<li>Registration and maintaining your preferences. This includes ensuring that you can stay logged in and keeping the site in the language or appearance that you requested.</li>
+	<li>Analytics. This allows us to determine how people are using the site and improve it.</li>
+	<li>Advertising cookies (possibly third-party). If this site displays advertising, cookies may be set by the advertisers to determine who has viewed an ad or similar things. These cookies may be set by third parties, in which case this site has no ability to read or write these cookies.</li>
+	<li>Other third-party cookies for things like Facebook or Twitter sharing. These cookies will generally be set by the third-party independently, so this site will have no ability to access them.</li>
 </ul>
 
-<p>El navegador también puede incluir la posibilidad de especificar mejor qué cookies tienen que ser aceptadas y cuáles no. En concreto, el usuario puede normalmente aceptar alguna de las siguientes opciones: rechazar las cookies de determinados dominios; rechazar las cookies de terceros; aceptar cookies como no persistentes (se eliminan cuando el navegador se cierra); permitir al servidor crear cookies para un dominio diferente. Además, los navegadores pueden también permitir a los usuarios ver y borrar cookies individualmente.</p>]]></phrase>
+<h3 class="textHeading">Removing/Disabling Cookies</h3>
+<p>Managing your cookies and cookie preferences must be done from within your browser's options/preferences. Here is a list of guides on how to do this for popular browser software:</p>
+<ul>
+	<li><a href="http://windows.microsoft.com/en-US/internet-explorer/delete-manage-cookies">Internet Explorer</a></li>
+	<li><a href="http://support.mozilla.org/kb/cookies-information-websites-store-on-your-computer">Firefox</a></li>
+	<li><a href="http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647">Chrome</a></li>
+	<li><a href="http://support.apple.com/kb/PH11913">Safari</a></li>
+	<li><a href="http://www.opera.com/help/tutorials/security/privacy/">Opera</a></li>
+</ul>]]></phrase>
   <phrase title="helpful_if_wish_to_translate_language_using_xml_file" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[This is helpful if you wish to translate this language using the XML file directly.]]></phrase>
   <phrase title="hidden" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Hidden]]></phrase>
   <phrase title="hide" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Hide]]></phrase>
@@ -1433,7 +1445,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="if_banner_stacking_disabled_staff_only_have_staff_banner" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If banner stacking is disabled, staff members will only have the staff banner. If this option is enabled, they will have a staff banner and the highest priority group banner.]]></phrase>
   <phrase title="if_conflict_discovered_while_merging_no_automatic_merging" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If a conflict is discovered while attempting to merge, no automatic merging will happen. You will need to manually resolve the conflict.]]></phrase>
   <phrase title="if_disabled_messages_posted_will_not_contribute_to_user_message_total" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[If disabled, messages posted (directly) in this forum will not contribute towards the posting user's total messages count.]]></phrase>
-  <phrase title="if_disabled_messages_will_never_appear_in_find_new_threads" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[If disabled, threads from this forum will never appear in the list of new / unread threads when users run /find-new/threads.]]></phrase>
+  <phrase title="if_disabled_messages_will_never_appear_in_find_new_threads" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If disabled, threads from this forum will never appear in the list of new / unread posts.]]></phrase>
   <phrase title="if_disabled_users_not_able_post_messages_in_forum" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[If disabled, users will not be able to post new messages or edit or delete their own messages. Moderators will still be able to manage the contents of this forum.]]></phrase>
   <phrase title="if_enabled_all_banners_applicable_to_user_will_be_shown" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If enabled, all banners applicable to a user will be shown. If disabled, only the highest priority banner will be displayed.]]></phrase>
   <phrase title="if_enabled_moderator_manually_approve_messages_posted_in_forum" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[If enabled, a moderator will have to manually approve any messages posted in this forum.]]></phrase>
@@ -1531,7 +1543,7 @@ Note that enabling the name calculation at import time can cause this step to ru
   <phrase title="in_forum" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[en el foro]]></phrase>
   <phrase title="inactive_questions_are_not_presented_to_visitors" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Inactive questions are not presented to visitors.]]></phrase>
   <phrase title="inbox" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Buzón]]></phrase>
-  <phrase title="include_forum_in_find_new_threads" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Include threads from this forum when users click "What's New?"]]></phrase>
+  <phrase title="include_forum_in_find_new_threads" addon_id="XenForo" version_id="1020070" version_string="1.2.0"><![CDATA[Incluir temas de este foro cuando los usuarios hagan clic en "Nuevos mensajes"]]></phrase>
   <phrase title="include_this_option_in_backups" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Include this option in backups]]></phrase>
   <phrase title="include_url_token" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Include <strong>{$url}</strong> as a placeholder for the link.]]></phrase>
   <phrase title="included_template_variable_assignments_must_include_var_attribute" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Included template variable assignments must include a var attribute.]]></phrase>
@@ -1587,16 +1599,16 @@ Note that enabling the name calculation at import time can cause this step to ru
   <phrase title="invite_members" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Invite Members]]></phrase>
   <phrase title="invite_members_to_conversation" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Invite Members to Conversation]]></phrase>
   <phrase title="invite_more" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Invitar más]]></phrase>
-  <phrase title="invite_more_members_to_participate_in_this_conversation" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Invite more members to participate in this conversation]]></phrase>
-  <phrase title="invited_members_see_entire_conversation" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Invited members will be able to see the entire conversation from the beginning.]]></phrase>
+  <phrase title="invite_more_members_to_participate_in_this_conversation" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Invitar a más miembros a participar en esta conversación]]></phrase>
+  <phrase title="invited_members_see_entire_conversation" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Los miembros invitados podrán ver toda la conversación desde el principio.]]></phrase>
   <phrase title="ip" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[IP]]></phrase>
-  <phrase title="ip_address" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[IP Address]]></phrase>
-  <phrase title="ip_addresses" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[IP Addresses]]></phrase>
-  <phrase title="ip_addresses_logged_for_username" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[IP Addresses Logged for {username}]]></phrase>
+  <phrase title="ip_address" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Dirección IP]]></phrase>
+  <phrase title="ip_addresses" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Direcciones IP]]></phrase>
+  <phrase title="ip_addresses_logged_for_username" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Direcciones IP registradas para {username}]]></phrase>
   <phrase title="ip_information_for_online_guest" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Información de IP para invitado en línea]]></phrase>
   <phrase title="ip_information_for_online_user" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[Información de dirección de IP para {user}]]></phrase>
-  <phrase title="ip_information_for_post" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[IP address information for post #{number} by {user}]]></phrase>
-  <phrase title="ip_information_for_profile_post" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[IP address information for profile post by {user}]]></phrase>
+  <phrase title="ip_information_for_post" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Información de dirección IP para mensaje #{number} por {user}]]></phrase>
+  <phrase title="ip_information_for_profile_post" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Información de dirección IP para mensaje de perfil por {user}]]></phrase>
   <phrase title="ip_search_explain" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Enter an IP address to see a list of all users logged as having posted content using that IP.]]></phrase>
   <phrase title="ip_to_ban" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[IP to Ban]]></phrase>
   <phrase title="ip_to_discourage" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[IP to Discourage]]></phrase>
@@ -1611,7 +1623,7 @@ Note that enabling the name calculation at import time can cause this step to ru
   <phrase title="italic_ctrl_i" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Italic (Ctrl+I)]]></phrase>
   <phrase title="item_will_remain_viewable_by_moderators_and_may_be_restored_at_later" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[El mensaje permanecera visible por moderadores y podrá ser restaurado en fechas futuras.]]></phrase>
   <phrase title="items_to_process_per_page" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Items to process per page]]></phrase>
-  <phrase title="join_date" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Join date]]></phrase>
+  <phrase title="join_date" addon_id="XenForo" version_id="1020070" version_string="1.2.0"><![CDATA[Fecha de registro]]></phrase>
   <phrase title="joined" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Se incorporó]]></phrase>
   <phrase title="jump_to" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Jump to]]></phrase>
   <phrase title="keywords" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Palabras clave]]></phrase>
@@ -1719,7 +1731,7 @@ Note that enabling the name calculation at import time can cause this step to ru
   <phrase title="language_zh_TW" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Chinese (Traditional, Taiwan)]]></phrase>
   <phrase title="language_zu_ZA" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Zulu]]></phrase>
   <phrase title="languages" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Idiomas]]></phrase>
-  <phrase title="last_activity" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Última actividad]]></phrase>
+  <phrase title="last_activity" addon_id="XenForo" version_id="1020070" version_string="1.2.0"><![CDATA[Última actividad]]></phrase>
   <phrase title="last_administrator_cannot_be_deleted" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The last administrator cannot be deleted.]]></phrase>
   <phrase title="last_edited" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Última modificación]]></phrase>
   <phrase title="last_edited_by_moderator" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Última modificación por un moderador]]></phrase>
@@ -1917,7 +1929,7 @@ Example regular expression with 'id' named sub-pattern:<br />
   <phrase title="moderation_actions" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Acciones de moderación]]></phrase>
   <phrase title="moderation_queue" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Cola de moderación]]></phrase>
   <phrase title="moderation_queue_is_currently_empty" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Actualmente la cola de moderación se encuentra vacía.]]></phrase>
-  <phrase title="moderation_queue_short" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Moderation]]></phrase>
+  <phrase title="moderation_queue_short" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Moderación]]></phrase>
   <phrase title="moderator" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Moderator]]></phrase>
   <phrase title="moderator_log" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Moderator Log]]></phrase>
   <phrase title="moderator_log_entry" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Moderator Log Entry]]></phrase>
@@ -2248,7 +2260,7 @@ Example regular expression with 'id' named sub-pattern:<br />
   <phrase title="option_contactEmailAddress" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Contact Email Address]]></phrase>
   <phrase title="option_contactEmailAddress_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Email address where board-related messages will be sent.]]></phrase>
   <phrase title="option_contactUrl" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Contact URL]]></phrase>
-  <phrase title="option_contactUrl_explain" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[This is the URL to the page where users will be able to contact you.]]></phrase>
+  <phrase title="option_contactUrl_explain" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[This is the URL to the page where users will be able to contact you. Please note that the overlay option will only work with XenForo URLs, so if you specify an external URL, it most likely will not work with an overlay.]]></phrase>
   <phrase title="option_conversationPopupExpiryHours" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Hours to Retain Read Conversations in Popup]]></phrase>
   <phrase title="option_conversationPopupExpiryHours_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The conversations popup will show all conversations with unread replies, plus any read conversations whose most recent replies fall within the time frame (in hours) before now.]]></phrase>
   <phrase title="option_currentVersionId" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Current Version ID]]></phrase>
@@ -2284,7 +2296,7 @@ Example regular expression with 'id' named sub-pattern:<br />
   <phrase title="option_discussionsPerPage" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Discussions Per Page]]></phrase>
   <phrase title="option_discussionsPerPage_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[This controls the maximum number of discussions (such as threads) that will be shown on one page.]]></phrase>
   <phrase title="option_editHistory" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Enable edit history tracking and prune after X days:]]></phrase>
-  <phrase title="option_editHistory_explain" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If enabled, moderators will be able to see historical versions of messages and compare changes between them. Historical data will be pruned after the specified number of days. Use 0 to keep the history for ever.]]></phrase>
+  <phrase title="option_editHistory_explain" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[If enabled, moderators will be able to see historical versions of messages and compare changes between them. Historical data will be pruned after the specified number of days. Use 0 to keep the history forever.]]></phrase>
   <phrase title="option_editLogDisplay" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Enable edit log display after X minutes:]]></phrase>
   <phrase title="option_editLogDisplay_explain" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If enabled, any edit after the delay will cause a "last edited" message to be displayed at the end of the message.]]></phrase>
   <phrase title="option_emailConversationIncludeMessage" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Include full message text personal conversation notification emails.]]></phrase>
@@ -2293,8 +2305,8 @@ Example regular expression with 'id' named sub-pattern:<br />
   <phrase title="option_emailSenderName_explain" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[If specified, emails sent by XenForo will default to being from this name. If no value is entered, the board name will be used.]]></phrase>
   <phrase title="option_emailTransport" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Email Transport Method]]></phrase>
   <phrase title="option_emailTransport_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="option_emailWatchedThreadIncludeMessage" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Include full message text in watched thread notification emails.]]></phrase>
-  <phrase title="option_emailWatchedThreadIncludeMessage_explain" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[With this option enabled, notification emails sent to users watching threads will contain the full text of the message about which they are being notified. With this option disabled, they will need to visit the forum to read the message.]]></phrase>
+  <phrase title="option_emailWatchedThreadIncludeMessage" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Include full message text in watched thread/forum notification emails.]]></phrase>
+  <phrase title="option_emailWatchedThreadIncludeMessage_explain" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[With this option enabled, notification emails sent to users watching threads/forum will contain the full text of the message about which they are being notified. With this option disabled, they will need to visit the forum to read the message.]]></phrase>
   <phrase title="option_enableInsertDelayed" addon_id="XenForo" version_id="1010051" version_string="1.1.0 Release Candidate 1"><![CDATA[Enable Delayed Insert SQL Queries]]></phrase>
   <phrase title="option_enableInsertDelayed_explain" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[This enables the use of INSERT DELAYED SQL queries for elements such as view tracking to increase performance. We only recommend disabling this if your host complains about "long MySQL connections" due to a misconception of what those connections represent.]]></phrase>
   <phrase title="option_enableMemberList" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Enable Members' List]]></phrase>
@@ -2327,7 +2339,7 @@ Example regular expression with 'id' named sub-pattern:<br />
   <phrase title="option_geoLocationUrl" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Location Information URL]]></phrase>
   <phrase title="option_geoLocationUrl_explain" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[The URL specified here will be used to give information (such as a map) about a physical location. The URL must include a <strong>{location}</strong> token.]]></phrase>
   <phrase title="option_googleAnalyticsWebPropertyId" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Google Analytics Web Property ID]]></phrase>
-  <phrase title="option_googleAnalyticsWebPropertyId_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[You may enter your <a href="http://code.google.com/apis/analytics/">Google Analytics</a> web property ID here to have the Analytics HTML automatically added to your public-facing pages.]]></phrase>
+  <phrase title="option_googleAnalyticsWebPropertyId_explain" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[You may enter your <a href="http://www.google.com/analytics/">Google Analytics</a> web property ID here to have the Analytics HTML automatically added to your public-facing pages.]]></phrase>
   <phrase title="option_gravatarEnable" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Enable Gravatar Support]]></phrase>
   <phrase title="option_gravatarEnable_explain" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[If enabled, your users may source their avatars from <a href="http://www.gravatar.com" target="_blank">Gravatar</a>. When a new user registers, XenForo will automatically search for a Gravatar associated with their email address. If disabled, this will not remove Gravatars from users that already have them.]]></phrase>
   <phrase title="option_group_acp" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Admin Control Panel]]></phrase>
@@ -2379,7 +2391,7 @@ It is possible to filter the news feed down to just users you follow, or a singl
   <phrase title="option_group_serviceProviders" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[External Service Providers]]></phrase>
   <phrase title="option_group_serviceProviders_description" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[For some functions, XenForo will hand off to a third party service provider. You may change some of the defaults used here.]]></phrase>
   <phrase title="option_group_spam" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Spam Management]]></phrase>
-  <phrase title="option_group_spam_description" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Default options for the Spam Cleaner system are located here.]]></phrase>
+  <phrase title="option_group_spam_description" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Default options for the Spam Cleaner and Prevention systems are located here.]]></phrase>
   <phrase title="option_group_stats" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Statistics and Metrics]]></phrase>
   <phrase title="option_group_stats_description" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[]]></phrase>
   <phrase title="option_group_twitter" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Twitter Integration]]></phrase>
@@ -2468,7 +2480,7 @@ It is possible to filter the news feed down to just users you follow, or a singl
   <phrase title="option_quickNavMenuNodeTypes" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Node Types to Include in Quick Navigation Menu]]></phrase>
   <phrase title="option_quickNavMenuNodeTypes_explain" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[When building the quick navigation menu, include the node types specified here. If an allowed node type is a child of an excluded node type, it will not be shown. Note that this does not change the node list on <a href="index.php" target="_blank">this page</a>.]]></phrase>
   <phrase title="option_readMarkingDataLifetime" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Read Marking Data Lifetime (Days)]]></phrase>
-  <phrase title="option_readMarkingDataLifetime_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[This is the number of days to maintain read marking data (such as for threads and forums). Data older than this will always been seen as read.]]></phrase>
+  <phrase title="option_readMarkingDataLifetime_explain" addon_id="XenForo" version_id="1020052" version_string="1.2.0 Release Candidate 2"><![CDATA[This is the number of days to maintain read marking data (such as for threads and forums). Data older than this will always be seen as read.]]></phrase>
   <phrase title="option_registrationCheckDnsBl" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[Check DNSBL on registration]]></phrase>
   <phrase title="option_registrationCheckDnsBl_explain" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[Check IP addresses in DNS block lists when a new user registers to help prevent spam. If the StopForumSpam integration is not enabled, the Tornevall DNSBL will be checked.]]></phrase>
   <phrase title="option_registrationDefaults" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Default Registration Values]]></phrase>
@@ -2606,7 +2618,7 @@ Callback arguments:
   <phrase title="permalink_for_post_x" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Permalink for Post #{position}]]></phrase>
   <phrase title="permanent" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Permanent]]></phrase>
   <phrase title="permanently_delete" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Borrar permanentemente]]></phrase>
-  <phrase title="permission_allow_desc" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[This permission is granted unless a "Deny" value is found in another applicable permission set.]]></phrase>
+  <phrase title="permission_allow_desc" addon_id="XenForo" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[This permission is granted unless a "Never" value is found in another applicable permission set.]]></phrase>
   <phrase title="permission_avatar_allowed" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Upload an avatar]]></phrase>
   <phrase title="permission_avatar_maxFileSize" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Maximum large avatar file size (bytes)]]></phrase>
   <phrase title="permission_conversation_alwaysInvite" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Always invite participants to conversations]]></phrase>
@@ -2619,7 +2631,7 @@ Callback arguments:
   <phrase title="permission_conversation_uploadAttachment" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Upload attachments to personal conversations]]></phrase>
   <phrase title="permission_default_desc" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[No preference for this permission. If no applicable permission set has a preference, the permission will not be granted.]]></phrase>
   <phrase title="permission_definitions" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Permission Definitions]]></phrase>
-  <phrase title="permission_deny_desc" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[This permission is denied in all circumstances. A "Deny" cannot be overridden.]]></phrase>
+  <phrase title="permission_deny_desc" addon_id="XenForo" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[This permission is denied in all circumstances. A "Never" cannot be overridden.]]></phrase>
   <phrase title="permission_forum_approveUnapprove" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Approve / unapprove threads / posts]]></phrase>
   <phrase title="permission_forum_deleteAnyPost" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Delete post by anyone]]></phrase>
   <phrase title="permission_forum_deleteAnyThread" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Delete thread by anyone]]></phrase>
@@ -2654,7 +2666,7 @@ Callback arguments:
   <phrase title="permission_general_editSignature" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Edit signature]]></phrase>
   <phrase title="permission_general_followModerationRules" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Follow message moderation rules]]></phrase>
   <phrase title="permission_general_manageWarning" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Delete all warnings]]></phrase>
-  <phrase title="permission_general_maxTaggedUsers" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Maximum taggable users per message]]></phrase>
+  <phrase title="permission_general_maxTaggedUsers" addon_id="XenForo" version_id="1020052" version_string="1.2.0 Release Candidate 2"><![CDATA[Maximum tag alerts per message]]></phrase>
   <phrase title="permission_general_report" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[Report content]]></phrase>
   <phrase title="permission_general_search" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Search]]></phrase>
   <phrase title="permission_general_view" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[View]]></phrase>
@@ -3696,11 +3708,11 @@ Its primary function is to provide the content background color.]]></phrase>
   <phrase title="style_property_ctrlUnitLabelError_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Label Inline Errors]]></phrase>
   <phrase title="style_property_ctrlUnitLabelHint_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Styles any supplementary text to accompany the label for form controls in the labels area.]]></phrase>
   <phrase title="style_property_ctrlUnitLabelHint_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Label Hints]]></phrase>
-  <phrase title="style_property_ctrlUnitLabelWidth_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Defines the width of the label area to the left of form control units.]]></phrase>
+  <phrase title="style_property_ctrlUnitLabelWidth_description_master" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Defines the width of the label area to the left of form control units. Should add up to 100% with the value block width.]]></phrase>
   <phrase title="style_property_ctrlUnitLabelWidth_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Form Control Unit Label Width]]></phrase>
   <phrase title="style_property_ctrlUnitLabel_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the area containing the label within the control unit.]]></phrase>
   <phrase title="style_property_ctrlUnitLabel_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Label Area]]></phrase>
-  <phrase title="style_property_ctrlUnitValueWidth_description_master" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Defines the width of the main value block  of form control units. Should add up to 100% with the label width]]></phrase>
+  <phrase title="style_property_ctrlUnitValueWidth_description_master" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[Defines the width of the main value block of form control units. Should add up to 100% with the label width]]></phrase>
   <phrase title="style_property_ctrlUnitValueWidth_master" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Form Control Unit Value Block Width]]></phrase>
   <phrase title="style_property_ctrlUnit_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the individual blocks around which forms in XenForo are built.]]></phrase>
   <phrase title="style_property_ctrlUnit_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Control Unit]]></phrase>
@@ -3746,7 +3758,7 @@ Its primary function is to provide the content background color.]]></phrase>
   <phrase title="style_property_eAuthButtonWidth_description_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Controls the width of external authentication buttons such as 'Login with Facebook'.]]></phrase>
   <phrase title="style_property_eAuthButtonWidth_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[External Authentication Button Width]]></phrase>
   <phrase title="style_property_editorContent_description_master" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[The content of the rich text editor should appear in the same colors, fonts etc. as your messages. If it does not, you can use this style property to tweak the appearance.]]></phrase>
-  <phrase title="style_property_editorContent_master" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Rich Text Editor Content]]></phrase>
+  <phrase title="style_property_editorContent_master" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[Editor Contents]]></phrase>
   <phrase title="style_property_enableOverlays_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[You may disable all overlays and instead load full pages by switching off this option.]]></phrase>
   <phrase title="style_property_enableOverlays_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Enable Overlays]]></phrase>
   <phrase title="style_property_enableResponsive_description_master" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[]]></phrase>
@@ -3801,8 +3813,8 @@ Its primary function is to provide the content background color.]]></phrase>
   <phrase title="style_property_formOverlayTextHeading_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Text Heading]]></phrase>
   <phrase title="style_property_formOverlay_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the appearance of form-type overlays.]]></phrase>
   <phrase title="style_property_formOverlay_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Container]]></phrase>
-  <phrase title="style_property_formWidth_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Controls the width of forms using the .xenForm class.]]></phrase>
-  <phrase title="style_property_formWidth_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Form Width]]></phrase>
+  <phrase title="style_property_formWidth_description_master" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Controls the maximum width of forms using the .xenForm class.]]></phrase>
+  <phrase title="style_property_formWidth_master" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Max Form Width]]></phrase>
   <phrase title="style_property_genericAttachmentThumb_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Controls the appearance of the generic thumbnail shown for non-image attachments.]]></phrase>
   <phrase title="style_property_genericAttachmentThumb_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Generic Attachment Thumbnail]]></phrase>
   <phrase title="style_property_group_bbCode_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[BB Code Elements]]></phrase>
@@ -4085,8 +4097,8 @@ Its primary purpose in the default style is to provide the left column of the me
   <phrase title="style_property_overlayCloseControl_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Overlay Close Gadget]]></phrase>
   <phrase title="style_property_overlayCloseSpeed_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Speed in milliseconds for overlays to fade out. Default: 100.]]></phrase>
   <phrase title="style_property_overlayCloseSpeed_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Overlay Closing Speed]]></phrase>
-  <phrase title="style_property_overlayFormWidth_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Controls the width of forms using the .xenForm class when being shown in an overlay.]]></phrase>
-  <phrase title="style_property_overlayFormWidth_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Form Width in Overlays]]></phrase>
+  <phrase title="style_property_overlayFormWidth_description_master" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Controls the maximum width of forms using the .xenForm class when being shown in an overlay.]]></phrase>
+  <phrase title="style_property_overlayFormWidth_master" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Max Form Width in Overlays]]></phrase>
   <phrase title="style_property_overlayMaskColor_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
   <phrase title="style_property_overlayMaskColor_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Overlay Mask Color]]></phrase>
   <phrase title="style_property_overlayMaskOpacity_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Controls the degree of transparency of the mask applied to the background content when an overlay is shown. Default: 0.6; fully transparent: 0; fully opaque: 1.]]></phrase>
@@ -4123,10 +4135,7 @@ Its primary purpose in the default style is to provide the left column of the me
   <phrase title="style_property_pageWidthResponsiveNarrow_master" addon_id="XenForo" version_id="1020032" version_string="1.2.0 Beta 2"><![CDATA[Responsive Page Width (Narrow)]]></phrase>
   <phrase title="style_property_pageWidthResponsiveWide_description_master" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Modifications to the page width at the wide responsive width point.]]></phrase>
   <phrase title="style_property_pageWidthResponsiveWide_master" addon_id="XenForo" version_id="1020032" version_string="1.2.0 Beta 2"><![CDATA[Responsive Page Width (Wide)]]></phrase>
-  <phrase title="style_property_pageWidth_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The width of the page is controlled with this property. Use this to switch between liquid and fixed layouts.
-
-Liquid example: width: auto; margin: 0 20px;
-Fixed example: width: 960px; margin: auto;]]></phrase>
+  <phrase title="style_property_pageWidth_description_master" addon_id="XenForo" version_id="1020032" version_string="1.2.0 Beta 2"><![CDATA[The width of the page is controlled with this property. Use this to switch between liquid and fixed layouts. To support responsive design, a fixed width value should not be used here; instead, a max-width value should be applied.]]></phrase>
   <phrase title="style_property_pageWidth_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Page Width Controller]]></phrase>
   <phrase title="style_property_panelScrollerNavContainer_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Controls the container of the navigation controls.]]></phrase>
   <phrase title="style_property_panelScrollerNavContainer_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Nav Container]]></phrase>
@@ -4615,7 +4624,7 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="update" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Actualizar]]></phrase>
   <phrase title="update_actions" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Actualizar acciones]]></phrase>
   <phrase title="update_email_notification_settings" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Update Email Notification Settings]]></phrase>
-  <phrase title="update_moderation_queue" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Update Moderation Queue]]></phrase>
+  <phrase title="update_moderation_queue" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Actualizar cola de moderación]]></phrase>
   <phrase title="update_permissions" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Update Permissions]]></phrase>
   <phrase title="update_report" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[Actualizar reporte]]></phrase>
   <phrase title="update_settings" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Update Settings]]></phrase>
@@ -4961,7 +4970,7 @@ Gracias,
   <phrase title="warning_type" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[Tipo de advertencia]]></phrase>
   <phrase title="warnings" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[Avisos]]></phrase>
   <phrase title="watch_forum" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[Seguir foro]]></phrase>
-  <phrase title="watch_this_thread" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Seguir este tema]]></phrase>
+  <phrase title="watch_this_thread" addon_id="XenForo" version_id="1020070" version_string="1.2.0"><![CDATA[Seguir este tema]]></phrase>
   <phrase title="watch_this_thread_sentence" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Seguir este tema]]></phrase>
   <phrase title="watch_thread" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Seguir tema]]></phrase>
   <phrase title="watch_thread_button" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[Seguir tema]]></phrase>
@@ -5074,12 +5083,12 @@ Para deshabilitar todos los emails:
 
 {board_link}]]></phrase>
   <phrase title="watched_forums" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[Foros en seguimiento]]></phrase>
-  <phrase title="watched_thread_email_html_footer_1" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[Este mensaje te ha sido enviado porque elegiste suscribirte al tema {thread} en {board} con notificación por correo electrónico de nuevas respuestas.]]></phrase>
-  <phrase title="watched_thread_email_html_footer_2" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[Para parar de recibir correos electrónicos, por favor <a href="{watch_link}" style="{link_style}">cambia tu opción de suscripción a este tema</a>. También puedes <a href="{manage_link}" style="{link_style}">revisar los hilos a los que estás suscrito</a>.]]></phrase>
+  <phrase title="watched_thread_email_html_footer_1" addon_id="XenForo" version_id="1020070" version_string="1.2.0"><![CDATA[Este mensaje te ha sido enviado porque elegiste suscribirte al tema {thread} en {board} con notificación por correo electrónico de nuevas respuestas. No recibirás ningún otro correo acerca de este tema hasta que hayas leído los nuevos mensajes.]]></phrase>
+  <phrase title="watched_thread_email_html_footer_2" addon_id="XenForo" version_id="1020070" version_string="1.2.0"><![CDATA[Para dejar de recibir estos emails, por favor <a href="{disable_this_link}" style="{link_style}">deshabilita emails de este tema</a> o <a href="{disable_all_link}" style="{link_style}">deshabilita todos los correos</a>.]]></phrase>
   <phrase title="watched_thread_reply_email_html" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[{receiver}, {replier} respondió a un tema al que estás suscrito en {board}.]]></phrase>
-  <phrase title="watched_thread_reply_email_text" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[{receiver_username},
+  <phrase title="watched_thread_reply_email_text" addon_id="XenForo" version_id="1020070" version_string="1.2.0"><![CDATA[{receiver_username},
 
-{username} respondió a un tema que estas sucrito en {board_title}.
+{username} respondió a un tema que estás siguiendo en {board_title}.
 
 	"{title}"
 
@@ -5088,22 +5097,22 @@ Para deshabilitar todos los emails:
 Para ver este tema, haz clic aquí:
 {view_link}
 
-No recibirás mas emails acerca de este tema hasta que hayas leído los nuevos mensajes.
+No recibirás más emails acerca de este tema hasta que hayas leído los nuevos mensajes.
 
 ----------------------------------------------------------------------
 
 Este mensaje fue enviado por que elegiste seguir el tema "{title}" en {board_title} con notificación de email de nuevas respuestas.
 
-Para dejar de recibir emails, por favor cambia tus opciones seguimiento de este tema.
-{watch_link}
+Para deshabilitar emails de este tema:
+{disable_this_link}
 
-También puedes revisar todos los temas que estás siguiendo.
-{manage_link}
+Para deshabilitar todos los emails:
+{disable_all_link}
 
 {board_link}]]></phrase>
-  <phrase title="watched_thread_reply_messagetext_email_text" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[{receiver_username},
+  <phrase title="watched_thread_reply_messagetext_email_text" addon_id="XenForo" version_id="1020070" version_string="1.2.0"><![CDATA[{receiver_username},
 
-{username} respondió a un tema que estas siguiendo en {board_title}.
+{username} respondió a un tema que estás siguiendo en {board_title}.
 
 	"{title}"
 
@@ -5121,10 +5130,10 @@ No recibirás mas emails acerca de este tema hasta que hayas leído los nuevos m
 
 Este mensaje fue enviado por que elegiste seguir el tema "{title}" en {board_title} con notificación de email de nuevas respuestas.
 
-Para dejar de recibir emails, por favor cambia tus opciones seguimiento a este tema.
+Para deshabilitar emails de este tema:
 {watch_link}
 
-También puedes revisar todos los temas que estás siguiendo.
+Para deshabilitar todos los emails:
 {manage_link}
 
 {board_link}]]></phrase>
