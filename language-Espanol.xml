@@ -1399,19 +1399,19 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="handle_report" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Handle Report]]></phrase>
   <phrase title="height" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Height]]></phrase>
   <phrase title="help" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ayuda]]></phrase>
-  <phrase title="help_cookies_description" addon_id="XenForo" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[<p>This page discusses how cookies are used by this site. If you continue to use this site, you are consenting to our use of cookies.</p>
+  <phrase title="help_cookies_description" addon_id="XenForo" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[<p>Está página discute como las cookies son usadas por este sitio. Si continuas usando este sitio, estás dando tu consentimiento a nuestro uso de cookies.</p>
 
-<h3 class="textHeading">What Cookies Are</h3>
-<p>Cookies are small files stored on your computer by your web browser (such as Internet Explorer or Firefox) at the request of a site you're viewing. This allows the site you're viewing to remember things about you, such as your preferences and history or to keep you logged in.</p>
+<h3 class="textHeading">Que son las cookies</h3>
+<p>Las cookies son pequeños archivos alamacenados en tu computadora por tu navegador (como Internet xplorer o Firefox) a pedido del sitio que estás viendo. Esto permite al sitio que estás viendo recordar cosas sobre ti, tal como tus preferencias y historia o para mantenerte conectado.</p>
 
-<p>Cookies may be stored on your computer for a short time (such as only while your browser is open) or for an extended period of time, even years. Cookies not set by this site will not be accessible to us.</p>
+<p>Las cookies pueden ser almacenadas por tu computadora por un corto tiempo (tal como cuando tu navegador está abierto) o por un periodo de extendido de tiempo, incluso años. Las cookies que no son colocadas por este sitio no serán accesibles a nosotros.</p>
 
-<h3 class="textHeading">Our Cookie Usage</h3>
-<p>This site uses cookies for numerous things, including:</p>
+<h3 class="textHeading">Nuestro uso de cookies</h3>
+<p>Este sitio usa cookies para varias cosas, incluyendo:</p>
 <ul>
-	<li>Registration and maintaining your preferences. This includes ensuring that you can stay logged in and keeping the site in the language or appearance that you requested.</li>
-	<li>Analytics. This allows us to determine how people are using the site and improve it.</li>
-	<li>Advertising cookies (possibly third-party). If this site displays advertising, cookies may be set by the advertisers to determine who has viewed an ad or similar things. These cookies may be set by third parties, in which case this site has no ability to read or write these cookies.</li>
+	<li>Registro y para mantener tus preferencias. Esto incluye asegurarse de que puedes mantenerte conectado y mantener el lenguaje y apariencia del sitio que prefieres.</li>
+	<li>Anaíticos. Esto nos permite determinar como las personas usan este sitio y mejorarlo.</li>
+	<li>Cookies de publicidad (quizá un tercero). Si este sitio muestra publicadad, pueden haber cookies colocadas por los promocionadores para determinar quien vio la publicidad y cosas similares. Estos cookies pueden ser colocados por terceros, en ese caso este sitio no tiene la habilidad de leer o escribir estos cookies.</li>
 	<li>Other third-party cookies for things like Facebook or Twitter sharing. These cookies will generally be set by the third-party independently, so this site will have no ability to access them.</li>
 </ul>
 
