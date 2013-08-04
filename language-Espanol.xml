@@ -1328,7 +1328,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="followed_members_only" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Followed Members Only]]></phrase>
   <phrase title="followers" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Seguidores]]></phrase>
   <phrase title="following" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Siguiendo]]></phrase>
-  <phrase title="following_error_occurred" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[The following error occurred]]></phrase>
+  <phrase title="following_error_occurred" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Ocurrió el siguiente error:]]></phrase>
   <phrase title="following_members_not_found_x" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The following members could not be found: {members}.]]></phrase>
   <phrase title="following_placeholders_will_be_replaced_in_message_for_email" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[The following placeholders will be replaced in the message: {name}, {email}, {id}.]]></phrase>
   <phrase title="following_sub_options_unknown_x" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The following sub-option(s) are unknown: {subOptions}.]]></phrase>
@@ -2091,7 +2091,7 @@ Example regular expression with 'id' named sub-pattern:<br />
   <phrase title="no_matching_users_were_found" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[No matching users were found.]]></phrase>
   <phrase title="no_members_following_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[No members are following {name}.]]></phrase>
   <phrase title="no_notices_have_been_created_yet" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[No notices have been created yet.]]></phrase>
-  <phrase title="no_notifications_forum_watch_description" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[The forum will still be listed on the watched forums page, which can be used to list only the forums you're interested in.]]></phrase>
+  <phrase title="no_notifications_forum_watch_description" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[El foro igual aparecerá en la página de foros en seguimiento, que puede ser usado para mostrar solo los foros que te interesan.]]></phrase>
   <phrase title="no_one_has_liked_this_post_yet" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[A nadie le ha gustado este mensaje todavía.]]></phrase>
   <phrase title="no_parent" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[No Parent]]></phrase>
   <phrase title="no_parent_style" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[no parent style]]></phrase>
@@ -3073,7 +3073,7 @@ Note that account changes such as bans will not be reflected by this system. You
   <phrase title="rebuild_search_index_sentence" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Reconstruir el índice de búsqueda.]]></phrase>
   <phrase title="rebuild_thread_information" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Reconstruir información del tema]]></phrase>
   <phrase title="rebuild_user_caches" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Reconstruir cachés de usuario]]></phrase>
-  <phrase title="rebuilding" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Rebuilding]]></phrase>
+  <phrase title="rebuilding" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Reconstruyendo]]></phrase>
   <phrase title="rebuilding_caches" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Reconstruyendo cachés]]></phrase>
   <phrase title="recaptcha_enter_both_words" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[Escriba ambas palabras del recuadro anterior]]></phrase>
   <phrase title="recaptcha_reload_go_back_to_text" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[<a {reload_params}>Reload</a> or <a {switch_params}>go back to text</a>. By reCAPTCHA&trade;]]></phrase>
@@ -3088,7 +3088,7 @@ Note that account changes such as bans will not be reflected by this system. You
   <phrase title="received_by" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[Recibido por]]></phrase>
   <phrase title="receiving_member" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Receiving Member]]></phrase>
   <phrase title="recent_activity" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Actividad reciente]]></phrase>
-  <phrase title="recent_content_by_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Recent Content by {name}]]></phrase>
+  <phrase title="recent_content_by_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Contenido reciente por {name}]]></phrase>
   <phrase title="recent_posts" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[Mensajes recientes]]></phrase>
   <phrase title="recent_spam_cleaning" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Recent Spam Cleaning]]></phrase>
   <phrase title="recently_active" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Recently active]]></phrase>
@@ -3163,11 +3163,11 @@ Note that account changes such as bans will not be reflected by this system. You
 Contenido siendo reportado:
 [quote]{message}[/quote]
 {extraDetails}]]></phrase>
-  <phrase title="reported_thread_title" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Reported Content: {title}]]></phrase>
-  <phrase title="reports" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Reports]]></phrase>
-  <phrase title="request_password" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Request Password]]></phrase>
-  <phrase title="request_password_be_emailed_to_you" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Request a password be emailed to you]]></phrase>
-  <phrase title="request_state" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Request State]]></phrase>
+  <phrase title="reported_thread_title" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Contenido reportado: {title}]]></phrase>
+  <phrase title="reports" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Reportes]]></phrase>
+  <phrase title="request_password" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Solicitar contraseña]]></phrase>
+  <phrase title="request_password_be_emailed_to_you" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Pedir que la contraseña se te envíe por email]]></phrase>
+  <phrase title="request_state" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Solicitar estado]]></phrase>
   <phrase title="requested_addon_not_found" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[The requested add-on could not be found.]]></phrase>
   <phrase title="requested_admin_navigation_entry_not_found" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The requested admin navigation entry could not be found.]]></phrase>
   <phrase title="requested_admin_not_found" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The requested administrator could not be found.]]></phrase>
@@ -4383,7 +4383,7 @@ Its primary purpose in the default style is to provide the left column of the me
   <phrase title="template_title" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Template Title]]></phrase>
   <phrase title="template_titles_must_be_unique" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Template titles must be unique. The specified title is already in use.]]></phrase>
   <phrase title="template_value_has_not_been_set_properly" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The template value has not been set properly.]]></phrase>
-  <phrase title="templates" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Templates]]></phrase>
+  <phrase title="templates" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Plantillas]]></phrase>
   <phrase title="templates_in_this_style_can_not_be_modified" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Templates in this style can not be modified. Please try another.]]></phrase>
   <phrase title="temporary" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Temporary]]></phrase>
   <phrase title="terms_and_rules" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Términos y reglas]]></phrase>
@@ -4620,7 +4620,7 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="untitled_template" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[untitled template]]></phrase>
   <phrase title="untranslated" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sin traducir]]></phrase>
   <phrase title="unwatch_forum" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[Dejar de seguir foro]]></phrase>
-  <phrase title="unwatch_thread" addon_id="XenForo" version_id="1010051" version_string="1.1.0 Release Candidate 1"><![CDATA[Dejar de vigilar tema]]></phrase>
+  <phrase title="unwatch_thread" addon_id="XenForo" version_id="1010051" version_string="1.1.0 Release Candidate 1"><![CDATA[Dejar de seguir tema]]></phrase>
   <phrase title="update" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Actualizar]]></phrase>
   <phrase title="update_actions" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Actualizar acciones]]></phrase>
   <phrase title="update_email_notification_settings" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Update Email Notification Settings]]></phrase>

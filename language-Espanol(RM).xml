@@ -40,7 +40,7 @@
   <phrase title="category_not_allow_new_resources" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Esta categoría no permite nuevos recursos.]]></phrase>
   <phrase title="choose_category" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Elige una categoría]]></phrase>
   <phrase title="cleaning_up_resources" addon_id="XenResource" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Limpiando recursos]]></phrase>
-  <phrase title="close_thread" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Cerrar el tema]]></phrase>
+  <phrase title="close_thread" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Cerrar tema]]></phrase>
   <phrase title="current_version_of_resource_may_not_be_deleted" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[La versíon actual del recurso nopuede ser borrada.]]></phrase>
   <phrase title="currently_version_x" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Actualmente versión {version}]]></phrase>
   <phrase title="delete_resource" addon_id="XenResource" version_id="1000270" version_string="1.0.2"><![CDATA[Borrar recurso]]></phrase>
@@ -120,7 +120,7 @@
   <phrase title="option_authorOtherResourcesCount" addon_id="XenResource" version_id="1000170" version_string="1.0.1"><![CDATA[Cuenta de recursos de otros autores]]></phrase>
   <phrase title="option_authorOtherResourcesCount_explain" addon_id="XenResource" version_id="1000170" version_string="1.0.1"><![CDATA[El máximo numero de otros recursos para mostrar de un recurso de autor. Usa 0 para deshabilitar este bloque.]]></phrase>
   <phrase title="option_group_xenResourceManager" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Gestor de recursos de XenForo]]></phrase>
-  <phrase title="option_group_xenResourceManager_description" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Opciones para controlar el complemento gestor de recurso.]]></phrase>
+  <phrase title="option_group_xenResourceManager_description" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Opciones para controlar el complemento gestor de recursos.]]></phrase>
   <phrase title="option_paidResourceThreadTemplate" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Plantilla de título de tema de recurso pago]]></phrase>
   <phrase title="option_paidResourceThreadTemplate_explain" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Normalmente, cuando un tema es automáticamente creado para recursos, el título del tema es solo el nombre del recurso. Está opción te permite específicar el formato del recurso pago. Utiliza {title} donde el título del recurso debería aparecer.]]></phrase>
   <phrase title="option_requireDownloadToRate" addon_id="XenResource" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Requerir descarga antes de poder calificar]]></phrase>
